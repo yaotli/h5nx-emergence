@@ -1,0 +1,1272 @@
+"","name","states","ref","time"
+"1","AB462295_Shanghai_1_2006_|China|_H5N1_2006.496","D_m",NA,2006
+"2","AB521159_peregrine_falcon_Hong_Kong_810_2009_|Hong_Kong|_H5N1_2009.496","W_a",NA,2009
+"3","CY030881_duck_Yunnan_4873_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"4","CY030889_duck_Yunnan_5310_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"5","CY030897_duck_Yunnan_6490_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"6","CY030905_goose_Yunnan_3798_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"7","CY030913_goose_Yunnan_4371_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"8","CY030921_goose_Yunnan_4389_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"9","CY030929_goose_Yunnan_4985_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"10","CY030937_goose_Yunnan_5141_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"11","CY030945_goose_Yunnan_5540_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"12","CY030953_goose_Yunnan_5599_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"13","CY030961_goose_Yunnan_5769_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"14","CY030969_goose_Yunnan_5979_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"15","CY030977_goose_Yunnan_6193_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"16","CY030985_goose_Yunnan_6384_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"17","CY036053_scaly_breasted_munia_Hong_Kong_45_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"18","CY036061_crested_goshawk_Hong_Kong_458_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"19","CY036069_house_crow_Hong_Kong_719_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"20","CY036077_Japanese_white_eye_Hong_Kong_737_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"21","CY036085_white_backed_munia_Hong_Kong_828_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"22","CY036101_house_crow_Hong_Kong_1203_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"23","CY036109_blue_magpie_Hong_Kong_1993_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"24","CY036117_silver_eared_mesia_Hong_Kong_2065_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"25","CY036125_common_kestrel_Hong_Kong_2372_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"26","CY036133_scaly_breasted_munia_Hong_Kong_2433_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"27","CY036141_chestnut_munia_Hong_Kong_2442_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"28","CY036149_scaly_breasted_munia_Hong_Kong_2572_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"29","CY036157_long_tailed_shrike_Hong_Kong_2762_2007_|Hong_Kong|_H5N1_2007.496","W_a",NA,2007
+"30","CY036269_peregrine_falcon_Hong_Kong_2142_2008_|Hong_Kong|_H5N1_2008.497","W_a",NA,2008
+"31","CY091627_duck_Guangdong_wy11_2008_|China|_H5N5_2008.429","D_a",NA,2008
+"32","CY091635_duck_Guangdong_wy19_2008_|China|_H5N5_2008.429","D_a",NA,2008
+"33","CY091643_duck_Guangdong_wy24_2008_|China|_H5N5_2008.429","D_a",NA,2008
+"34","CY098603_Sichuan_2_2006_|China|_H5N1_2006.025","D_m",NA,2006
+"35","CY098641_Hubei_1_2006_|China|_H5N1_2006.247","D_m",NA,2006
+"36","CY098648_Sichuan_3_2006_|China|_H5N1_2006.288","D_m",NA,2006
+"37","CY098655_Guangdong_2_2006_|China|_H5N1_2006.419","D_m",NA,2006
+"38","CY098668_Anhui_1_2006_|China|_H5N1_2006.940","D_m",NA,2006
+"39","CY098681_Anhui_1_2007_|China|_H5N1_2007.205","D_m",NA,2007
+"40","CY098688_Hunan_1_2008_|China|_H5N1_2008.041","D_m",NA,2008
+"41","CY098695_Guangxi_1_2008_|China|_H5N1_2008.115","D_m",NA,2008
+"42","CY098702_Guangdong_1_2008_|China|_H5N1_2008.126","D_m",NA,2008
+"43","CY098709_Beijing_1_2009_|China|_H5N1_2008.923","D_m",NA,2008
+"44","CY098716_Shandong_1_2009_|China|_H5N1_2009.011","D_m",NA,2009
+"45","CY098723_Hunan_1_2009_|China|_H5N1_2009.019","D_m",NA,2009
+"46","CY098730_Xinjiang_1_2009_|China|_H5N1_2009.025","D_m",NA,2009
+"47","CY098737_Guizhou_1_2009_|China|_H5N1_2009.038","D_m",NA,2009
+"48","CY098751_Hunan_2_2009_|China|_H5N1_2009.060","D_m",NA,2009
+"49","CY098766_water_Hebei_1_2009_|China|_H5N1_2009.014","D_e","GenBank",2009
+"50","CY098774_water_Hebei_2_2009_|China|_H5N1_2009.014","D_e","GenBank",2009
+"51","CY098782_water_Hebei_3_2009_|China|_H5N1_2009.014","D_e","GenBank",2009
+"52","CY098790_duck_feces_Hebei_5_2009_|China|_H5N1_2009.014","D_a",NA,2009
+"53","CY098798_environment_Guizhou_2_2009_|China|_H5N1_2009.041","D_e","GenBank",2009
+"54","CY098806_environment_Guizhou_4_2009_|China|_H5N1_2009.041","D_e","GenBank",2009
+"55","CY098814_environment_Guizhou_7_2009_|China|_H5N1_2009.041","D_e","GenBank",2009
+"56","CY098822_environment_Guizhou_9_2009_|China|_H5N1_2009.041","D_e","GenBank",2009
+"57","CY098830_water_Xinjiang_3_2009_|China|_H5N1_2009.041","D_e","GenBank",2009
+"58","CY098838_environment_Xinjiang_6_2009_|China|_H5N1_2009.041","D_e","GenBank",2009
+"59","CY098845_water_Hunan_3_2009_|China|_H5N1_2009.041","D_e","GenBank",2009
+"60","DQ095629_Duck_Fujian_1734_05_|China|_H5N1_2005.496","D_a",NA,2005
+"61","DQ371928_Anhui_1_2005_|China|_H5N1_2005.833","D_m",NA,2005
+"62","DQ371930_Guangxi_1_2005_|China|_H5N1_2005.893","D_m",NA,2005
+"63","DQ520855_chicken_Zhejiang_24_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"64","DQ835313_China_GD01_2006_|China|_H5N1_2006.496","D_m",NA,2006
+"65","DQ842487_goose_Guangzhou_471_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"66","DQ842489_Guangzhou_1_2006_|China|_H5N1_2006.496","D_m",NA,2006
+"67","DQ992729_goose_Guangxi_4289_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"68","DQ992730_duck_Guangxi_4428_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"69","DQ992731_goose_Guangxi_4513_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"70","DQ992733_duck_Guangxi_4830_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"71","DQ992734_chicken_Guangxi_4989_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"72","DQ992735_duck_Guangxi_5075_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"73","DQ992736_duck_Guangxi_5165_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"74","DQ992737_duck_Guangxi_5270_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"75","DQ992738_goose_Guangxi_5414_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"76","DQ992739_duck_Guangxi_5457_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"77","DQ992742_duck_Guangxi_150_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"78","DQ992743_goose_Guangxi_224_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"79","DQ992744_duck_Guangxi_288_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"80","DQ992745_chicken_Guangxi_463_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"81","DQ992746_duck_Guangxi_392_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"82","DQ992747_goose_Guangxi_582_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"83","DQ992748_duck_Guangxi_619_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"84","DQ992749_duck_Guangxi_744_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"85","DQ992750_duck_Guangxi_804_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"86","DQ992754_duck_Guiyang_3009_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"87","DQ992755_chicken_Guiyang_3055_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"88","DQ992756_duck_Guiyang_3242_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"89","DQ992757_goose_Guiyang_3422_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"90","DQ992758_chicken_Guiyang_3570_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"91","DQ992759_chicken_Guiyang_3721_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"92","DQ992760_duck_Guiyang_3834_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"93","DQ992761_duck_Guiyang_3996_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"94","DQ992762_chicken_Guiyang_4059_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"95","DQ992763_chicken_Guiyang_29_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"96","DQ992764_duck_Guiyang_293_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"97","DQ992767_duck_Guiyang_497_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"98","DQ992776_duck_Shantou_13323_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"99","DQ992777_goose_Shantou_18442_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"100","DQ992779_chicken_Shantou_1233_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"101","DQ992783_goose_Shantou_3265_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"102","DQ992784_goose_Shantou_3295_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"103","DQ992785_chicken_Shantou_3840_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"104","DQ992786_chicken_Shantou_3923_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"105","DQ992787_duck_Hunan_5106_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"106","DQ992788_duck_Hunan_5152_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"107","DQ992790_duck_Hunan_324_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"108","DQ992791_duck_Hunan_344_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"109","DQ992792_duck_Hunan_856_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"110","DQ992793_duck_Hunan_988_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"111","DQ992819_duck_Fujian_9651_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"112","DQ992820_duck_Fujian_9713_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"113","DQ992821_chicken_Fujian_9821_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"114","DQ992822_chicken_Fujian_10039_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"115","DQ992823_chicken_Fujian_10313_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"116","DQ992825_duck_Fujian_10934_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"117","DQ992826_duck_Fujian_11094_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"118","DQ992827_duck_Fujian_11311_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"119","DQ992828_chicken_Fujian_11933_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"120","DQ992829_duck_Fujian_12032_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"121","DQ992830_chicken_Fujian_12239_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"122","DQ992831_chicken_Fujian_584_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"123","DQ992832_duck_Fujian_668_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"124","DQ992833_duck_Fujian_671_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"125","DQ992836_chicken_Hong_Kong_282_2006_|Hong_Kong|_H5N1_2006.496","D_a",NA,2006
+"126","DQ992838_crested_myna_Hong_Kong_540_2006_|Hong_Kong|_H5N1_2006.496","W_a",NA,2006
+"127","DQ992839_common_magpie_Hong_Kong_645_2006_|Hong_Kong|_H5N1_2006.496","W_a",NA,2006
+"128","DQ992840_little_egret_Hong_Kong_718_2006_|Hong_Kong|_H5N1_2006.496","W_a",NA,2006
+"129","DQ992841_chicken_Hong_Kong_947_2006_|Hong_Kong|_H5N1_2006.496","D_a",NA,2006
+"130","DQ992842_Japanese_white_eye_Hong_Kong_1038_2006_|Hong_Kong|_H5N1_2006.496","W_a",NA,2006
+"131","DQ992843_common_magpie_Hong_Kong_2125_2006_|Hong_Kong|_H5N1_2006.496","W_a",NA,2006
+"132","DQ992844_common_magpie_Hong_Kong_2256_2006_|Hong_Kong|_H5N1_2006.496","W_a",NA,2006
+"133","DQ992845_munia_Hong_Kong_2454_2006_|Hong_Kong|_H5N1_2006.496","W_a",NA,2006
+"134","DQ992846_white_backed_munia_Hong_Kong_2469_2006_|Hong_Kong|_H5N1_2006.496","W_a",NA,2006
+"135","DQ992847_large_billed_crow_Hong_Kong_2512_2006_|Hong_Kong|_H5N1_2006.496","W_a",NA,2006
+"136","DQ992848_house_crow_Hong_Kong_2648_2006_|Hong_Kong|_H5N1_2006.496","W_a",NA,2006
+"137","DQ992849_house_crow_Hong_Kong_2858_2006_|Hong_Kong|_H5N1_2006.496","W_a",NA,2006
+"138","DQ992850_common_magpie_Hong_Kong_3033_2006_|Hong_Kong|_H5N1_2006.496","W_a",NA,2006
+"139","DQ993022_duck_Guangxi_2143_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"140","DQ993023_duck_Guangxi_1830_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"141","DQ993024_goose_Guangxi_1898_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"142","DQ993025_goose_Guangxi_1633_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"143","DQ993026_chicken_Guangxi_1951_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"144","DQ993027_goose_Guangxi_1458_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"145","DQ993028_duck_Guangxi_1436_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"146","DQ993030_duck_Guangxi_1258_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"147","DQ993031_chicken_Guangxi_1212_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"148","DQ993114_chicken_Guangxi_683_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"149","DQ993117_goose_Guangxi_532_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"150","EF137706_Shenzhen_406H_2006_|China|_H5N1_2006.496","D_m",NA,2006
+"151","EF670479_duck_Hunan_15_2004_|China|_H5N1_2004.074","D_a",NA,2004
+"152","EPI102993_Guizhou_1_2012_|China|_H5N1_2012.057","D_m",NA,2012
+"153","EPI135216_Guizhou_1_2013_|China|_H5N1_2013.104","D_m",NA,2013
+"154","EPI135217_Guizhou_2_2013_|China|_H5N1_2013.107","D_m",NA,2013
+"155","EPI137254_duck_Hebei_2_2011_|China|_H5N2_2011.915","D_a",NA,2011
+"156","EPI137255_duck_Hebei_3_2011_|China|_H5N2_2011.932","D_a",NA,2011
+"157","EPI156815_mallard_duck_Shanghai_SH_9_2013_|China|_H5N8_2013.879","W_a","GISAID",2013
+"158","EPI161972_duck_Jiangxi_95_2014_|China|_H5N6_2014.025","D_a",NA,2014
+"159","EPI161973_environment_Shenzhen_25_24_2013_|China|_H5N6_2013.918","D_e","Sustained live poultry market surveillance contributes to early warnings for human infection with avian influenza viruses",2013
+"160","EPI163493_Sichuan_26221_2014_|China|_H5N6_2014.301","D_m",NA,2014
+"161","EPI166693_duck_Beijing_FS01_2014_|China|_H5N8_2014.052","D_a",NA,2014
+"162","EPI166694_duck_Beijing_CT01_2014_|China|_H5N8_2014.058","D_a",NA,2014
+"163","EPI176840_feline_Guangdong_1_2014_H5N6_|China|_H5N6_2015.008","D_m","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"164","EPI176841_feline_Guangdong_2_2014_H5N6_|China|_H5N6_2015.008","D_m","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"165","EPI178250_Environment_Yunnan_DQ5_2015_|China|_H5N6_2015.107","D_e","A fatal case of infection with a further reassortant, highly pathogenic avian influenza (HPAI) H5N6 virus in Yunnan, China",2015
+"166","EPI178251_Environment_Yunnan_DQ8_2015_|China|_H5N6_2015.107","D_e","A fatal case of infection with a further reassortant, highly pathogenic avian influenza (HPAI) H5N6 virus in Yunnan, China",2015
+"167","EPI178252_Environment_Yunnan_DQ9_2015_|China|_H5N6_2015.107","D_e","A fatal case of infection with a further reassortant, highly pathogenic avian influenza (HPAI) H5N6 virus in Yunnan, China",2015
+"168","EPI178253_Environment_Yunnan_DQ16_2015_|China|_H5N6_2015.107","D_e","A fatal case of infection with a further reassortant, highly pathogenic avian influenza (HPAI) H5N6 virus in Yunnan, China",2015
+"169","EPI178255_Environment_Yunnan_DQ53_2015_|China|_H5N6_2015.110","D_e","A fatal case of infection with a further reassortant, highly pathogenic avian influenza (HPAI) H5N6 virus in Yunnan, China",2015
+"170","EPI178261_Yunnan_14563_2015_|China|_H5N6_2015.099","D_m",NA,2015
+"171","EPI178262_Yunnan_14564_2015_|China|_H5N6_2015.096","D_m",NA,2015
+"172","EPI180495_Environment_Jiangxi_20983_2013_|China|_H5N1_2013.901","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2013
+"173","EPI180499_Environment_Jiangxi_23094_2013_|China|_H5N6_2013.951","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2013
+"174","EPI196571_duck_Jiangsu_WX156_2013_|China|_H5N6_2013.553","D_a",NA,2013
+"175","EPI196572_environment_Jiangsu_WX175_2013_|China|_H5N6_2013.526","D_e","Novel Highly Pathogenic Avian H5 Influenza A Viruses in Live Poultry Markets, Wuxi City, China, 2013−2014",2013
+"176","EPI196573_chicken_Jiangsu_WXS7393_2014_|China|_H5N6_2014.633","D_a",NA,2014
+"177","EPI196591_chicken_Jiangsu_WXBING2_2014_|China|_H5N6_2014.633","D_a",NA,2014
+"178","EPI196592_goose_Jiangsu_WX202_2014_|China|_H5N8_2014.123","D_a",NA,2014
+"179","EPI198754_duck_Hunan_12_17_YYFQH012_O_2014_H5N6_|China|_H5N6_2014.959","D_a",NA,2014
+"180","EPI198757_goose_Jilin_04_04_SY003_O_2015_H5N6_|China|_H5N6_2015.255","D_a",NA,2015
+"181","EPI198758_chicken_Jiangxi_04_01_NCJD131_1_O_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"182","EPI198761_chicken_Hunan_12_07_YYGK114_P_2013_H5N6_|China|_H5N6_2013.932","D_a",NA,2013
+"183","EPI198762_chicken_Hunan_12_28_YYGK034_P_2013_H5N6_|China|_H5N6_2013.989","D_a",NA,2013
+"184","EPI198765_duck_Hunan_12_07_YYGK108_P_2013_H5N6_|China|_H5N6_2013.932","D_a",NA,2013
+"185","EPI198766_duck_Hunan_12_07_YYGK110_P_2013_H5N6_|China|_H5N6_2013.932","D_a",NA,2013
+"186","EPI198767_duck_Hunan_12_07_YYGK111_P_2013_H5N6_|China|_H5N6_2013.932","D_a",NA,2013
+"187","EPI198768_duck_Hunan_12_07_YYGK112_P_2013_H5N6_|China|_H5N6_2013.932","D_a",NA,2013
+"188","EPI198769_duck_Hunan_12_07_YYGK113_P_2013_H5N6_|China|_H5N6_2013.932","D_a",NA,2013
+"189","EPI198770_duck_Hunan_12_07_YYGK118_P_2013_H5N6_|China|_H5N6_2013.932","D_a",NA,2013
+"190","EPI198771_duck_Hunan_12_07_YYGK032_P_2013_H5N6_|China|_H5N6_2013.932","D_a",NA,2013
+"191","EPI198772_duck_Hunan_12_07_YYGK0043_P_2013_H5N6_|China|_H5N6_2013.932","D_a",NA,2013
+"192","EPI198773_duck_Hunan_12_07_YYGK68_P_2013_H5N6_|China|_H5N6_2013.932","D_a",NA,2013
+"193","EPI198777_duck_Hunan_12_07_YGK098_P_2013_H5N6_|China|_H5N6_2013.932","D_a",NA,2013
+"194","EPI198781_chicken_Hunan_02_26_YYGKJ281_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"195","EPI198782_chicken_Hunan_02_26_YYGKJ295_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"196","EPI198783_duck_Hunan_01_16_YYFQH185_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"197","EPI198784_duck_Hunan_01_16_YYGK0204_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"198","EPI198785_duck_Hunan_01_16_YYGK218_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"199","EPI198789_duck_Hunan_02_26_YYGK249_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"200","EPI198791_duck_Hunan_02_26_YYGK250_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"201","EPI198792_duck_Hunan_02_26_YYGK251_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"202","EPI198793_duck_Hunan_02_26_YYGK254_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"203","EPI198794_duck_Hunan_02_26_YYGK0255_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"204","EPI198795_duck_Hunan_02_26_YYGK263_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"205","EPI198796_duck_Hunan_02_26_YYGK265_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"206","EPI198797_duck_Hunan_02_26_YYGK266_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"207","EPI198798_environment_Jiangxi_02_10_NCDZT023_2015_H5N6_|China|_H5N6_2015.110","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"208","EPI198799_Pigeon_Jiangxi_02_10_NCDZT0017_P_2015_H5N6_|China|_H5N6_2015.110","D_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"209","EPI198800_environment_Jiangxi_02_10_NCDZT009_2015_H5N6_|China|_H5N6_2015.110","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"210","EPI198801_duck_Hunan_02_26_YYGK267_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"211","EPI198802_duck_Hunan_02_26_YYGK271_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"212","EPI198803_duck_Hunan_02_26_YYGK275_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"213","EPI198804_duck_Hunan_02_26_YYGK276_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"214","EPI198805_duck_Hunan_02_16_YYGK281_P_2014_H5N6_|China|_H5N6_2014.126","D_a",NA,2014
+"215","EPI198806_duck_Hunan_02_26_YYGK283_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"216","EPI198807_duck_Hunan_02_26_YYGK286_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"217","EPI198808_duck_Hunan_02_26_YYGK289_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"218","EPI198809_duck_Hunan_02_26_YYFQH290_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"219","EPI198810_duck_Hunan_02_26_YYFQHY291_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"220","EPI198811_duck_Hunan_02_26_YYFQH293_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"221","EPI198812_duck_Hunan_02_26_YYFQH294_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"222","EPI198813_duck_Hunan_02_26_YYGQH295_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"223","EPI198814_duck_Hunan_02_26_YYFQH297_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"224","EPI198815_duck_Hunan_02_26_YYGKY298_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"225","EPI198816_duck_Hunan_01_16_YYFQH299_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"226","EPI198817_duck_Hunan_01_16_YYFQH300_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"227","EPI198818_duck_Hunan_01_16_YYFQH302_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"228","EPI198819_duck_Hunan_01_16_YYFQH303_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"229","EPI198820_duck_Hunan_01_16_YYFQH304_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"230","EPI198821_duck_Hunan_01_16_YYFQH305_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"231","EPI198822_duck_Hunan_01_16_YYFQH306_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"232","EPI198823_duck_Hunan_01_16_YYFQH307_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"233","EPI198824_duck_Hunan_02_26_YYFQH308_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"234","EPI198825_duck_Hunan_01_16_YYFQH309_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"235","EPI198826_duck_Hunan_01_16_YYFQH310_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"236","EPI198827_duck_Hunan_02_26_YYFQH311_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"237","EPI198828_duck_Hunan_01_16_YYFQH315_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"238","EPI198829_duck_Hunan_01_16_YYFQH317_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"239","EPI198830_duck_Hunan_01_16_YYFQH318_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"240","EPI198831_duck_Hunan_01_16_YYFQH319_P_2014_H5N6_|China|_H5N6_2014.041","D_a",NA,2014
+"241","EPI198832_duck_Hunan_02_26_YYFQH320_P_2014_H5N6_|China|_H5N6_2014.153","D_a",NA,2014
+"242","EPI198833_duck_Hunan_12_17_YYGK014_2014_H5N6_|China|_H5N6_2014.959","D_a",NA,2014
+"243","EPI198835_environment_Jiangxi_02_10_NCDZT0018_2015_H5N6_|China|_H5N6_2015.110","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"244","EPI198836_environment_Jiangxi_02_10_NCDZT018_2015_H5N6_|China|_H5N6_2015.110","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"245","EPI198838_environment_JiangXi_02_10_NCNP0019_2015_H5N6_|China|_H5N6_2015.110","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"246","EPI198849_pigeon_Jilin_04_25_CCHL018_O_2015_H5N6_|China|_H5N6_2015.312","D_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"247","EPI198856_chicken_Jiangxi_04_01_NCDZT0040_O_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"248","EPI198857_duck_Hunan_12_17_YYGK040_2014_H5N6_|China|_H5N6_2014.959","D_a",NA,2014
+"249","EPI198860_duck_Hunan_12_17_YYFQH052_P_2014_H5N6_|China|_H5N6_2014.959","D_a",NA,2014
+"250","EPI198861_chicken_Hunan_04_14_YYKG0533_Z_O_2015_H5N6_|China|_H5N6_2015.282","D_a",NA,2015
+"251","EPI198862_duck_Hunan_12_17_YYGK056_2014_H5N6_|China|_H5N6_2014.959","D_a",NA,2014
+"252","EPI198863_duck_Hunan_12_17_YYGK0057_2014_H5N6_|China|_H5N6_2014.959","D_a",NA,2014
+"253","EPI198866_duck_Sichuan_04_27_NBXJ717_2014_H5N6_|China|_H5N6_2014.318","D_a",NA,2014
+"254","EPI198867_duck_Sichuan_04_27_NBXJ718_2014_H5N6_|China|_H5N6_2014.318","D_a",NA,2014
+"255","EPI198868_duck_Sichuan_04_27_NBXJ71_2014_H5N6_|China|_H5N6_2014.318","D_a",NA,2014
+"256","EPI198869_duck_Sichuan_04_27_NBXJ720_2014_H5N6_|China|_H5N6_2014.318","D_a",NA,2014
+"257","EPI198870_duck_Sichuan_04_27_NBXJ731_2014_H5N6_|China|_H5N6_2014.318","D_a",NA,2014
+"258","EPI198871_duck_Sichuan_04_27_NCXJ073_2014_H5N6_|China|_H5N6_2014.318","D_a",NA,2014
+"259","EPI198872_duck_Sichuan_04_27_NBXJ79_2014_H5N6_|China|_H5N6_2014.318","D_a",NA,2014
+"260","EPI198873_duck_Hunan_12_17_YYGK079_1_2014_H5N6_|China|_H5N6_2014.959","D_a",NA,2014
+"261","EPI198874_duck_Sichuan_04_27_NBXJ713_2014_H5N6_|China|_H5N6_2014.318","D_a",NA,2014
+"262","EPI198875_environment_Jilin_04_11_CCHSL012_2015_H5N6_|China|_H5N6_2015.274","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"263","EPI198876_duck_Hunan_12_17_YYGK082_2014_H5N6_|China|_H5N6_2014.959","D_a",NA,2014
+"264","EPI198878_environment_Jilin_04_25_NA004_2015_H5N6_|China|_H5N6_2015.312","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"265","EPI198880_chicken_Yunnan_03_16_DQXYL0034_O_2015_H5N6_|China|_H5N6_2015.203","D_a",NA,2015
+"266","EPI198881_chicken_Yunnan_03_16_DQJT0048_O_2015_H5N6_|China|_H5N6_2015.203","D_a",NA,2015
+"267","EPI198882_duck_Yunnan_03_16_DQXYL0039_O_2015_H5N6_|China|_H5N6_2015.203","D_a",NA,2015
+"268","EPI198883_duck_Yunnan_03_15_DQWGH005_O_2015_H5N6_|China|_H5N6_2015.200","D_a",NA,2015
+"269","EPI198884_chicken_Jiangxi_12_05_NCDZT0012_2014_H5N6_|China|_H5N6_2014.926","D_a",NA,2014
+"270","EPI198885_chicken_Jiangxi_12_05_NCDZT0020_2014_H5N6_|China|_H5N6_2014.926","D_a",NA,2014
+"271","EPI198886_chicken_Jiangxi_12_05_NCDZT0021_2014_H5N6_|China|_H5N6_2014.926","D_a",NA,2014
+"272","EPI198887_chicken_Jiangxi_12_05_NCDZT0031_2014_H5N6_|China|_H5N6_2014.926","D_a",NA,2014
+"273","EPI198888_chicken_Jiangxi_12_05_NCDZT0032_2014_H5N6_|China|_H5N6_2014.926","D_a",NA,2014
+"274","EPI198889_chicken_Jiangxi_12_05_NCDZT0040_2014_H5N6_|China|_H5N6_2014.926","D_a",NA,2014
+"275","EPI198890_chicken_Jiangxi_12_05_NCDZT007_2014_H5N6_|China|_H5N6_2014.926","D_a",NA,2014
+"276","EPI198891_chicken_Jiangxi_12_05_NCDZT009_2014_H5N6_|China|_H5N6_2014.926","D_a",NA,2014
+"277","EPI198893_pigeon_Sichuan_04_27_NBXJ743_2014_H5N6_|China|_H5N6_2014.318","D_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2014
+"278","EPI198894_environment_Jiangxi_02_10_NCDZT16_2015_H5N6_|China|_H5N6_2015.110","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"279","EPI198895_environment_Yunnan_03_15_DQWGH012_2015_H5N6_|China|_H5N6_2015.200","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"280","EPI198896_environment_Yunnan_03_15_DQWGH010_2015_H5N6_|China|_H5N6_2015.200","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"281","EPI198897_environment_Yunnan_03_15_DQWGH011_2_2015_H5N6_|China|_H5N6_2015.200","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"282","EPI198898_environment_Yunnan_03_15_DQWGH014_2015_H5N6_|China|_H5N6_2015.200","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"283","EPI198899_environment_Yunnan_03_17_DQJT039_2015_H5N6_|China|_H5N6_2015.205","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"284","EPI198900_environment_Yunnan_03_15_DQWGH009_2015_H5N6_|China|_H5N6_2015.200","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"285","EPI198901_environment_Yunnan_03_15_DQWGH020_2015_H5N6_|China|_H5N6_2015.200","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"286","EPI198902_environment_Yunnan_03_15_DQWGH017_2015_H5N6_|China|_H5N6_2015.200","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"287","EPI198903_environment_Yunnan_03_15_DQWGH004_2015_H5N6_|China|_H5N6_2015.200","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"288","EPI198904_environment_Yunnan_03_15_DQWGH008_1_2015_H5N6_|China|_H5N6_2015.200","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"289","EPI198906_duck_Hunan_12_17_YYFQH0018_Z_P_2014_H5N6_|China|_H5N6_2014.959","D_a",NA,2014
+"290","EPI198908_duck_Hunan_12_17_YYGK0063_O_2014_H5N6_|China|_H5N6_2014.959","D_a",NA,2014
+"291","EPI198909_duck_Hunan_12_17_YYGK0056_2014_H5N6_|China|_H5N6_2014.959","D_a",NA,2014
+"292","EPI198911_duck_Hunan_12_17_YYGK0066_P_2014_H5N6_|China|_H5N6_2014.959","D_a",NA,2014
+"293","EPI198916_chicken_Jiangxi_05_06_NCDZT1174_O_2015_H5N6_|China|_H5N6_2015.342","D_a",NA,2015
+"294","EPI198917_chicken_Jiangxi_04_01_NCJD0119_O_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"295","EPI198919_chicken_Jiangxi_04_01_NCJD0010_O_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"296","EPI198920_chicken_Jiangxi_04_01_NCJD0137_O_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"297","EPI198921_chicken_Jiangxi_04_01_NCJD0146_O_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"298","EPI198923_chicken_Jiangxi_04_01_NCDZT0173_P_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"299","EPI198924_chicken_Jiangxi_04_01_NCDZT0175_P_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"300","EPI198926_chicken_Jiangxi_04_01_NCDZT0192_P_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"301","EPI198927_chicken_Jiangxi_04_01_NCDZT0203_P_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"302","EPI198929_chicken_Jiangxi_04_01_NCDZT0206_P_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"303","EPI198930_chicken_Jiangxi_04_01_NCDZT0238_P_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"304","EPI198932_chicken_Jiangxi_04_01_NCDZT0279_P_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"305","EPI198933_chicken_Jiangxi_04_01_NCDZT0285_P_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"306","EPI198934_chicken_Jiangxi_04_01_NCDZT0291_P_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"307","EPI198935_chicken_Jiangxi_04_01_NCDZT0292_P_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"308","EPI198937_duck_Jiangxi_04_01_NCDZT0312_O_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"309","EPI198939_duck_Jiangxi_04_01_NCDZT0334_P_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"310","EPI198949_environment_Yunnan_03_15_DQWGH001_2015_H5N6_|China|_H5N6_2015.200","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"311","EPI198952_environment_Yunnan_03_17_DQJT040_2015_H5N6_|China|_H5N6_2015.205","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"312","EPI198953_environment_Jiangxi_05_07_NCJD0010D_2015_H5N6_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"313","EPI198954_environment_Jiangxi_05_07_NCJD0012D_2015_H5N6_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"314","EPI198956_environment_Jiangxi_05_07_NCJD0017D_2015_H5N6_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"315","EPI198958_environment_Jiangxi_05_07_NCJD0022D_2015_H5N6_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"316","EPI198959_environment_Jiangxi_05_07_NCJD0023D_2015_H5N6_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"317","EPI198960_environment_Jiangxi_05_07_NCJD0027D_2015_H5N6_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"318","EPI198962_Pigeon_Jiangxi_04_01_NCDZT0347_O_2015_H5N6_|China|_H5N6_2015.247","D_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"319","EPI198964_Pigeon_Jiangxi_04_01_NCDZT0348_O_2015_H5N6_|China|_H5N6_2015.247","D_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"320","EPI198967_Pigeon_Jiangxi_04_01_NCDZT0352_O_2015_H5N6_|China|_H5N6_2015.247","D_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"321","EPI198968_Pigeon_Jiangxi_04_01_NCDZT0353_O_2015_H5N6_|China|_H5N6_2015.247","D_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"322","EPI198971_chicken_Jiangxi_05_06_NCDZT0039B_P_2015_H5N6_|China|_H5N6_2015.342","D_a",NA,2015
+"323","EPI198972_chicken_Jiangxi_05_06_NCDZT0003C_P_2015_H5N6_|China|_H5N6_2015.342","D_a",NA,2015
+"324","EPI198976_chicken_Jiangxi_04_01_NCDZT0042_O_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"325","EPI198977_chicken_Jiangxi_05_06_NCDZT0043B_P_2015_H5N6_|China|_H5N6_2015.342","D_a",NA,2015
+"326","EPI198981_environment_Jiangxi_05_07_NCJD0052C_2015_H5N6_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"327","EPI198984_duck_Jiangxi_05_07_NCJD0056P_2015_H5N6_|China|_H5N6_2015.345","D_a",NA,2015
+"328","EPI198985_chicken_Jiangxi_05_06_NCDZT0058B_P_2015_H5N6_|China|_H5N6_2015.342","D_a",NA,2015
+"329","EPI198987_duck_Jiangxi_05_07_NCJD0061P_2015_H5N6_|China|_H5N6_2015.345","D_a",NA,2015
+"330","EPI198990_chicken_Jiangxi_04_01_NCNP0065_Z_O_2015_H5N6_|China|_H5N6_2015.247","D_a",NA,2015
+"331","EPI198991_duck_Jiangxi_05_07_NCJD0067P_2015_H5N6_|China|_H5N6_2015.345","D_a",NA,2015
+"332","EPI198992_environment_Jiangxi_05_07_NCJD0070C_2015_H5N6_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"333","EPI198996_environment_Jiangxi_05_07_NCJD0078C_2015_H5N6_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"334","EPI199006_environment_Jiangxi_05_07_NCJD0095C_2015_H5N6_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"335","EPI199007_environment_Jiangxi_05_07_NCJD0098C_2015_H5N6_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"336","EPI199009_environment_Jiangxi_05_07_NCJD0093C_2015_H5N6_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"337","EPI199010_chicken_Jiangxi_12_05_NCNP006_2014_H5N6_|China|_H5N6_2014.926","D_a",NA,2014
+"338","EPI199011_chicken_Hubei_03_06_WHWTZ0115_O_2015_H5N6_|China|_H5N6_2015.175","D_a",NA,2015
+"339","EPI199015_duck_Hubei_03_06_WHWTZ0129_P_2015_H5N6_|China|_H5N6_2015.175","D_a",NA,2015
+"340","EPI199017_chicken_Hubei_03_06_WHWTZ0148_O_2015_H5N6_|China|_H5N6_2015.175","D_a",NA,2015
+"341","EPI199026_duck_Hubei_03_06_WHWTZ0123_O_2015_H5N6_|China|_H5N6_2015.175","D_a",NA,2015
+"342","EPI199028_duck_Hubei_03_06_WHWTZ0124_O_2015_H5N6_|China|_H5N6_2015.175","D_a",NA,2015
+"343","EPI199029_duck_HuBei_03_06_WHWTZ0158_P_2015_H5N6_|China|_H5N6_2015.175","D_a",NA,2015
+"344","EPI199030_duck_Hubei_03_06_WHWTZ0125_O_2015_H5N6_|China|_H5N6_2015.175","D_a",NA,2015
+"345","EPI199031_duck_Hubei_03_06_WHWTZ0130_O_2015_H5N6_|China|_H5N6_2015.175","D_a",NA,2015
+"346","EPI199032_duck_Hubei_03_06_WHWTZ0148_O_2015_H5N6_|China|_H5N6_2015.175","D_a",NA,2015
+"347","EPI199034_chicken_Yunnan_03_16_DQJT0068_O_2015_H5N6_|China|_H5N6_2015.203","D_a",NA,2015
+"348","EPI199035_chicken_Yunnan_03_15_DQXYL0073_O_2015_H5N6_|China|_H5N6_2015.200","D_a",NA,2015
+"349","EPI199036_chicken_Yunnan_03_16_DQJT0066_O_2015_H5N6_|China|_H5N6_2015.203","D_a",NA,2015
+"350","EPI199037_duck_Yunnan_03_16_DQXYL0013_O_2015_|China|_H5N6_2015.203","D_a",NA,2015
+"351","EPI199038_duck_Hunan_04_22_LDDX037_P_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"352","EPI199041_chicken_Yunnan_03_16_DQXYL023_O_2015_H5N6_|China|_H5N6_2015.203","D_a",NA,2015
+"353","EPI199042_duck_Yunnan_03_16_DQXYL003_O_2015_H5N6_|China|_H5N6_2015.203","D_a",NA,2015
+"354","EPI199043_duck_Yunnan_03_16_DQXYL017_O_2015_H5N6_|China|_H5N6_2015.203","D_a",NA,2015
+"355","EPI199044_duck_Yunnan_03_16_DQXYL022_O_2015_H5N6_|China|_H5N6_2015.203","D_a",NA,2015
+"356","EPI199045_duck_Hunan_02_07_YYFQH010_P_2015_H5N6_|China|_H5N6_2015.101","D_a",NA,2015
+"357","EPI199046_duck_Hunan_01_21_YYFQH010_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"358","EPI199047_duck_Hunan_01_21_YYFQH011_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"359","EPI199049_duck_Hunan_02_07_YYFQHY12Y_O_2015_H5N6_|China|_H5N6_2015.101","D_a",NA,2015
+"360","EPI199050_duck_Hunan_01_21_YYFQH012_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"361","EPI199051_duck_Hunan_03_09_YYFQH0047_O_2015_H5N6_|China|_H5N6_2015.184","D_a",NA,2015
+"362","EPI199052_duck_Hunan_02_07_YYFQH015_P_2015_H5N6_|China|_H5N6_2015.101","D_a",NA,2015
+"363","EPI199053_duck_Hunan_01_21_YYFQH015_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"364","EPI199054_duck_Hunan_01_21_YYFQH016_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"365","EPI199055_duck_Hunan_01_21_YYFQH018_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"366","EPI199056_duck_Hunan_01_21_YYFQH019_P_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"367","EPI199057_duck_Hunan_02_07_YYFQHY19Y_O_2015_H5N6_|China|_H5N6_2015.101","D_a",NA,2015
+"368","EPI199058_duck_Hunan_02_07_YYFQHY20Y_O_2015_H5N6_|China|_H5N6_2015.101","D_a",NA,2015
+"369","EPI199059_duck_Hunan_01_21_YYFQH022_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"370","EPI199062_Phalacrocorax_Hubei_01_09_V5_2015_H5N6_|China|_H5N6_2015.022","W_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"371","EPI199063_Phalacrocorax_Hubei_01_09_V7_2015_H5N6_|China|_H5N6_2015.022","W_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"372","EPI199064_duck_Hunan_01_21_YYFQH023_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"373","EPI199065_duck_Hunan_01_21_YYFQH024_P_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"374","EPI199066_duck_Hunan_01_21_YYFQH025_P_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"375","EPI199067_duck_Hunan_02_07_YYFQH026_O_2015_H5N6_|China|_H5N6_2015.101","D_a",NA,2015
+"376","EPI199068_duck_Hunan_01_21_YYFQH027_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"377","EPI199069_duck_Hunan_02_07_YYFQH029_O_2015_H5N6_|China|_H5N6_2015.101","D_a",NA,2015
+"378","EPI199070_duck_Hunan_01_21_YYFQH030_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"379","EPI199071_duck_Hunan_01_21_YYFQH032_P_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"380","EPI199072_duck_Hunan_02_07_YYFQH032_O_2015_H5N6_|China|_H5N6_2015.101","D_a",NA,2015
+"381","EPI199073_duck_Hunan_02_07_YYFQH003_P_2015_H5N6_|China|_H5N6_2015.101","D_a",NA,2015
+"382","EPI199074_duck_Hunan_01_21_YYFQH003_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"383","EPI199075_duck_Hunan_01_21_YYFQH005_P_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"384","EPI199076_duck_Hunan_01_21_YYFQH005_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"385","EPI199077_duck_Hunan_02_07_YYFQH006_P_2015_H5N6_|China|_H5N6_2015.101","D_a",NA,2015
+"386","EPI199079_duck_Hunan_01_21_YYFQH006_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"387","EPI199080_duck_Hunan_01_21_YYFQH007_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"388","EPI199081_chicken_Hunan_04_14_YYXS0835_O_2015_H5N6_|China|_H5N6_2015.282","D_a",NA,2015
+"389","EPI199083_duck_Hunan_01_21_YYFQH009_O_2015_H5N6_|China|_H5N6_2015.055","D_a",NA,2015
+"390","EPI199084_environment_Yunnan_03_16_DQXYL0053_Z_O_2015_H5N6_|China|_H5N6_2015.203","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"391","EPI199085_chicken_Yunnan_03_15_DQJT0054_Z_P_2015_H5N6_|China|_H5N6_2015.200","D_a",NA,2015
+"392","EPI199086_chicken_Yunnan_03_16_DQXYL0063_Z_O_2015_H5N6_|China|_H5N6_2015.203","D_a",NA,2015
+"393","EPI199087_environment_Yunnan_03_17_DQJT0015_2015_H5N6_|China|_H5N6_2015.205","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"394","EPI199093_duck_Yunnan_03_15_DQXYL007_Z_O_2015_H5N6_|China|_H5N6_2015.200","D_a",NA,2015
+"395","EPI199094_environment_Yunnan_03_15_DQWGH008_Z_2015_H5N6_|China|_H5N6_2015.200","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"396","EPI199095_environment_Yunnan_03_16_DQXYL0027_2015_H5N6_|China|_H5N6_2015.203","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"397","EPI199198_duck_Guangdong_03_26_DGCP081_P_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"398","EPI199199_duck_Guangdong_03_26_DGCP078_O_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"399","EPI199200_duck_Guangdong_03_26_DGCP084_P_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"400","EPI199201_duck_Guangdong_03_26_DGCP061_P_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"401","EPI199207_goose_Guangdong_04_22_DGCP117_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"402","EPI199208_duck_Guangdong_04_23_DGQTXC229_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"403","EPI199209_duck_Guangdong_04_22_DGCP068_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"404","EPI199211_duck_Guangdong_04_23_DGQTSJ150_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"405","EPI199214_duck_Guangdong_04_23_DGQTXC202_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"406","EPI199215_duck_Guangdong_04_22_DGCP069_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"407","EPI199220_goose_Guangdong_04_22_DGCP106_O_2015_Mixed_|China|_H5N6_2015.304","D_a",NA,2015
+"408","EPI199222_duck_Guangdong_04_23_DGQTXC203_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"409","EPI199230_duck_Guangdong_04_22_DGCPLB018_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"410","EPI199232_duck_Guangdong_04_22_DGCPLB022_O_2015_Mixed_|China|_H5N6_2015.304","D_a",NA,2015
+"411","EPI199234_duck_Guangdong_04_23_DGQTXC229_P_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"412","EPI199235_duck_Guangdong_04_23_DGQTSJ145_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"413","EPI199236_duck_Guangdong_04_23_DGQTXC231_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"414","EPI199241_duck_Guangdong_04_23_DGQTXC226_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"415","EPI199242_duck_Guangdong_04_22_DGCP061_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"416","EPI199243_environment_Guangdong_04_22_DGCP027_2015_H5N6_|China|_H5N6_2015.304","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"417","EPI199244_goose_Guangdong_04_22_DGCP120_P_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"418","EPI199250_duck_Guangdong_04_22_DGCP079_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"419","EPI199252_duck_Guangdong_04_22_DGCPLB020_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"420","EPI199255_duck_Guangdong_04_22_DGCP071_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"421","EPI199259_duck_Guangdong_04_22_DGCP062_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"422","EPI199260_goose_Guangdong_04_22_DGCPLB045_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"423","EPI199262_duck_Guangdong_04_23_DGQTXC228_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"424","EPI199263_goose_Guangdong_04_22_DGCP116_P_2015_Mixed_|China|_H5N6_2015.304","D_a",NA,2015
+"425","EPI199264_duck_Guangdong_04_23_DGQTXC227_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"426","EPI199268_goose_Guangdong_04_22_DGCP118_P_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"427","EPI199269_goose_Guangdong_04_23_DGQTXC216_P_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"428","EPI199271_duck_Guangdong_04_23_DGQTXC202_P_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"429","EPI199280_duck_Guangdong_04_22_DGCP067_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"430","EPI199281_duck_Guangdong_04_22_DGCP080_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"431","EPI199289_duck_Guangdong_04_23_DGQTXC213_P_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"432","EPI199290_duck_Guangdong_04_23_DGQTXC236_P_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"433","EPI199291_duck_Guangdong_04_23_DGQTXC213_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"434","EPI199292_duck_Guangdong_04_23_DGQTXC232_P_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"435","EPI199293_duck_Guangdong_04_23_DGQTSJ131_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"436","EPI199294_goose_Guangdong_04_23_DGQTXC236_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"437","EPI199295_duck_Guangdong_04_23_DGQTXC228_P_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"438","EPI199296_pigeon_Guangdong_04_23_DGQTXC197_O_2015_H5N6_|China|_H5N6_2015.307","D_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"439","EPI199297_duck_Guangdong_04_23_DGQTXC235_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"440","EPI199299_duck_Guangdong_04_22_DGCP081_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"441","EPI199301_goose_Guangdong_04_23_DGQTXC237_O1_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"442","EPI199302_duck_Guangdong_04_23_DGQTSJ130_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"443","EPI199303_duck_Guangdong_04_22_DGCP084_O_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"444","EPI199304_duck_Guangdong_04_22_DGCPLB041_P_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"445","EPI199305_duck_Guangdong_04_22_DGCPLB044_P_2015_H5N6_|China|_H5N6_2015.304","D_a",NA,2015
+"446","EPI199314_environment_Jiangxi_01_14_NCJD005_2015_H5N6_|China|_H5N6_2015.036","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"447","EPI199328_duck_Jiangxi_02_05_YGYXG015_P_2015_H6N6_|China|_H5N6_2015.096","D_a",NA,2015
+"448","EPI199336_environment_Jiangxi_01_08_YGCB007_2015_Mixed_|China|_H5N6_2015.019","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"449","EPI199337_duck_Jiangxi_01_14_NCJD054_P_2015_H5N6_|China|_H5N6_2015.036","D_a",NA,2015
+"450","EPI199340_duck_Jiangxi_01_14_NCJD064_P_2015_Mixed_|China|_H5N6_2015.036","D_a",NA,2015
+"451","EPI199341_environment_Jiangxi_01_14_NCJD027_2015_H5N6_|China|_H5N6_2015.036","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"452","EPI199342_chicken_Jiangxi_01_14_NCJD181_P_2015_H5N6_|China|_H5N6_2015.036","D_a",NA,2015
+"453","EPI199347_duck_Guangdong_04_23_DGQTXC230_O_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"454","EPI199353_duck_Guangdong_04_23_DGQTXC207_P_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"455","EPI199354_duck_Guangdong_04_23_DGQTXC207_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"456","EPI199355_duck_Guangdong_04_23_DGQTXC202_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"457","EPI199356_duck_Guangdong_04_23_DGQTXC205_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"458","EPI199357_duck_Guangdong_04_23_DGQTSJ137_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"459","EPI199358_duck_Guangdong_04_23_DGQTXC186_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"460","EPI199359_duck_Guangdong_03_27_DGQTXC210_O_2015_Mixed_|China|_H5N6_2015.233","D_a",NA,2015
+"461","EPI199360_duck_Guangdong_04_23_DGQTXC187_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"462","EPI199361_duck_Guangdong_04_23_DGQTSJ136_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"463","EPI199362_duck_Guangdong_04_23_DGQTSJ146_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"464","EPI199363_duck_Guangdong_04_23_DGQTXC204_P_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"465","EPI199364_duck_Guangdong_04_23_DGQTXC206_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"466","EPI199365_duck_Guangdong_04_23_DGQTSJ123_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"467","EPI199366_duck_Guangdong_04_23_DGQTSJ134_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"468","EPI199367_duck_Guangdong_03_27_DGQTSJ131_O_2015_Mixed_|China|_H5N6_2015.233","D_a",NA,2015
+"469","EPI199368_duck_Guangdong_04_23_DGQTSJ128_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"470","EPI199369_duck_Guangdong_04_23_DGQTXC183_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"471","EPI199370_duck_Guangdong_04_23_DGQTXC204_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"472","EPI199371_duck_Guangdong_04_23_DGQTSJ135_P_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"473","EPI199372_duck_Guangdong_04_23_DGQTSJ135_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"474","EPI199373_duck_Guangdong_04_23_DGQTSJ138_P_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"475","EPI199374_duck_Guangdong_03_27_DGQTXC203_O_2015_Mixed_|China|_H5N6_2015.233","D_a",NA,2015
+"476","EPI199375_duck_Guangdong_04_23_DGQTSJ138_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"477","EPI199376_duck_Guangdong_04_23_DGQTXC187_P_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"478","EPI199377_duck_Guangdong_03_27_DGQTXC190_P_2015_Mixed_|China|_H5N6_2015.233","D_a",NA,2015
+"479","EPI199378_duck_Guangdong_04_23_DGQTXC201_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"480","EPI199379_duck_Guangdong_04_23_DGQTXC188_P_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"481","EPI199380_duck_Guangdong_04_23_DGQTXC235_P_2015_H5N6_|China|_H5N6_2015.307","D_a",NA,2015
+"482","EPI199381_duck_Guangdong_04_16_LGDBL001_2015_Mixed_|China|_H5N6_2015.288","D_a",NA,2015
+"483","EPI199382_duck_Guangdong_04_16_LGDBL007_2015_Mixed_|China|_H5N6_2015.288","D_a",NA,2015
+"484","EPI199383_duck_Guangdong_04_16_LGDBL004_2015_Mixed_|China|_H5N6_2015.288","D_a",NA,2015
+"485","EPI199384_environment_Guangdong_04_16_LGWL008_2015_Mixed_|China|_H5N6_2015.288","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"486","EPI199385_chicken_Guangdong_04_16_LGWL013_2015_Mixed_|China|_H5N6_2015.288","D_a",NA,2015
+"487","EPI199389_environment_Guangdong_03_27_DGQTSJ046_2015_H5N6_|China|_H5N6_2015.233","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"488","EPI199391_duck_Guangdong_03_27_DGQTSJ129_O_2015_Mixed_|China|_H5N6_2015.233","D_a",NA,2015
+"489","EPI199392_environment_Guangdong_03_27_DGQTXC056_2015_H5N6_|China|_H5N6_2015.233","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"490","EPI199395_environment_Guangdong_04_23_DGQTXC055_2015_Mixed_|China|_H5N6_2015.307","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"491","EPI199397_chicken_Jiangxi_01_14_NCJD125_P_2015_H5N6_|China|_H5N6_2015.036","D_a",NA,2015
+"492","EPI199398_duck_Jiangxi_02_06_NCJD039_P_2015_H5N6_|China|_H5N6_2015.099","D_a",NA,2015
+"493","EPI199399_duck_Jiangxi_02_06_NCJD036_P_2015_H5N6_|China|_H5N6_2015.099","D_a",NA,2015
+"494","EPI199400_chicken_Jiangxi_02_05_YGYXG035_P_2015_H5N6_|China|_H5N6_2015.096","D_a",NA,2015
+"495","EPI199401_chicken_Jiangxi_02_05_YGYXG023_P_2015_H5N6_|China|_H5N6_2015.096","D_a",NA,2015
+"496","EPI199402_duck_Jiangxi_02_05_YGYXG038_P_2015_H5N6_|China|_H5N6_2015.096","D_a",NA,2015
+"497","EPI199403_duck_Guangdong_03_26_DGCP062_P_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"498","EPI199404_duck_Guangdong_03_26_DGCPLB007_O_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"499","EPI199405_duck_Guangdong_03_26_DGCPLB022_O_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"500","EPI199406_duck_Guangdong_03_26_DGCP076_P_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"501","EPI199407_duck_Guangdong_03_26_DGCP077_O_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"502","EPI199408_duck_Guangdong_03_26_DGCP075_O_2015_Mixed_|China|_H5N6_2015.230","D_a",NA,2015
+"503","EPI199409_duck_Guangdong_03_26_DGCP082_O_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"504","EPI199410_goose_Shandong_03_16_JNRe_5_2014_H5N6_|China|_H5N6_2014.203","D_a",NA,2014
+"505","EPI199414_goose_Shandong_02_26_GD_2015_H5N6_|China|_H5N6_2015.153","D_a",NA,2015
+"506","EPI199415_duck_Guangdong_03_26_DGCPLB023_O_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"507","EPI199416_duck_Guangdong_03_26_DGCPLB024_O_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"508","EPI199417_duck_Guangdong_03_26_DGCP062_O_2015_H5N6_|China|_H5N6_2015.230","D_a",NA,2015
+"509","EPI199419_duck_Guangxi_04_10_JX046_2015_H5N6_|China|_H5N6_2015.271","D_a",NA,2015
+"510","EPI199421_duck_Guangdong_02_11_DGCP102_P_2015_Mixed_|China|_H5N6_2015.112","D_a",NA,2015
+"511","EPI199422_duck_Guangdong_02_11_DGCP103_P_2015_Mixed_|China|_H5N6_2015.112","D_a",NA,2015
+"512","EPI199423_duck_Guangdong_02_11_DGCP104_P_2015_Mixed_|China|_H5N6_2015.112","D_a",NA,2015
+"513","EPI199430_environment_Guangdong_02_11_DGCP029_2015_Mixed_|China|_H5N6_2015.112","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"514","EPI199431_environment_Guangdong_02_11_DGQTSJ046E_2015_Mixed_|China|_H5N6_2015.112","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"515","EPI199432_environment_Guangdong_02_11_DGCPSJ050_2015_Mixed_|China|_H5N6_2015.112","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"516","EPI199435_duck_Guangdong_02_11_DGCP092_P_2015_Mixed_|China|_H5N6_2015.112","D_a",NA,2015
+"517","EPI199436_duck_Guangdong_02_11_DGCP093_P_2015_Mixed_|China|_H5N6_2015.112","D_a",NA,2015
+"518","EPI199437_duck_Guangdong_02_11_DGCP094_P_2015_Mixed_|China|_H5N6_2015.112","D_a",NA,2015
+"519","EPI199444_chicken_Guangxi_04_10_NM140_2015_H5N6_|China|_H5N6_2015.271","D_a",NA,2015
+"520","EPI199445_environment_Guangdong_04_15_SZBAXQshui2_2015_H5N6_|China|_H5N6_2015.285","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"521","EPI199446_chicken_Guangdong_04_15_SZBAXQ019_2015_H5N6_|China|_H5N6_2015.285","D_a",NA,2015
+"522","EPI199449_duck_Guangdong_04_15_SZBAXQ011_2015_H5N6_|China|_H5N6_2015.285","D_a",NA,2015
+"523","EPI199450_duck_Guangdong_04_15_SZBAXQ017_2015_H5N6_|China|_H5N6_2015.285","D_a",NA,2015
+"524","EPI199451_duck_Guangdong_04_15_SZBAXQ020_2015_H5N6_|China|_H5N6_2015.285","D_a",NA,2015
+"525","EPI199452_duck_Guangdong_04_15_SZBAXQ021_2015_H5N6_|China|_H5N6_2015.285","D_a",NA,2015
+"526","EPI199453_duck_Guangdong_04_15_SZBAXQ003_2015_H5N6_|China|_H5N6_2015.285","D_a",NA,2015
+"527","EPI199456_pigeon_Guangdong_04_15_SZBAXQ004_2015_H5N6_|China|_H5N6_2015.285","D_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"528","EPI199458_duck_Guangdong_04_16_SZLGDBL013_2015_H5N6_|China|_H5N6_2015.288","D_a",NA,2015
+"529","EPI199459_duck_Guangdong_04_16_SZLGDBL002_2015_H5N6_|China|_H5N6_2015.288","D_a",NA,2015
+"530","EPI199460_duck_Guangdong_04_16_SZLGDBL003_2015_H5N6_|China|_H5N6_2015.288","D_a",NA,2015
+"531","EPI199461_duck_Guangdong_04_16_SZLGDBL005_2015_H5N6_|China|_H5N6_2015.288","D_a",NA,2015
+"532","EPI199462_duck_Guangdong_04_16_SZLGDBL009_2015_H5N6_|China|_H5N6_2015.288","D_a",NA,2015
+"533","EPI199463_duck_Guangdong_04_16_SZLGWL002_2015_H5N6_|China|_H5N6_2015.288","D_a",NA,2015
+"534","EPI199464_environment_Guangdong_04_16_SZLGWL006_2015_Mixed_|China|_H5N6_2015.288","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"535","EPI199465_pigeon_Guangdong_04_16_SZLGWL006_2015_H5N6_|China|_H5N6_2015.288","D_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"536","EPI199466_environment_Guangdong_04_16_SZLGWLShui1_2015_H5N6_|China|_H5N6_2015.288","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"537","EPI199467_environment_Guangdong_04_16_SZLGWLShui3_2015_Mixed_|China|_H5N6_2015.288","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"538","EPI199468_environment_Guangdong_04_16_SZLGWLShui5_2015_H5N6_|China|_H5N6_2015.288","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"539","EPI200235_goose_Guangdong_04_23_DGQTXC216_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"540","EPI200236_duck_Guangdong_04_23_DGQTXC227_P_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"541","EPI200237_duck_Guangdong_04_23_DGQTXC214_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"542","EPI200238_duck_Jiangxi_01_14_NCJD034_P_2015_Mixed_|China|_H5N6_2015.036","D_a",NA,2015
+"543","EPI200239_duck_Guangdong_04_23_DGQTXC234_P_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"544","EPI200240_duck_Guangdong_04_23_DGQTSJ127_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"545","EPI200241_duck_Guangdong_04_23_DGQTXC185_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"546","EPI200242_goose_Guangdong_04_23_DGQTXC237_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"547","EPI200243_duck_Guangdong_04_23_DGQTXC231_P_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"548","EPI200244_duck_Guangdong_04_23_DGQTSJ124_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"549","EPI200245_duck_Guangdong_04_23_DGQTSJ121_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"550","EPI200246_duck_Guangdong_04_23_DGQTXC233_P_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"551","EPI200247_duck_Guangdong_04_22_DGCP083_O_2015_Mixed_|China|_H5N6_2015.304","D_a",NA,2015
+"552","EPI200248_duck_Guangdong_04_23_DGQTXC188_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"553","EPI200249_duck_Guangdong_03_27_DGQTSJ134_O_2015_Mixed_|China|_H5N6_2015.233","D_a",NA,2015
+"554","EPI200250_goose_Guangdong_03_27_DGQTSJ180_O_2015_Mixed_|China|_H5N6_2015.233","D_a",NA,2015
+"555","EPI200251_duck_Guangdong_03_27_DGQTSJ133_O_2015_Mixed_|China|_H5N6_2015.233","D_a",NA,2015
+"556","EPI200252_duck_Guangdong_04_23_DGQTSJ148_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"557","EPI200253_duck_Guangdong_04_23_DGQTSJ144_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"558","EPI200254_duck_Guangdong_04_23_DGQTXC230_P_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"559","EPI200255_duck_Guangdong_04_22_DGCP071_P_2015_Mixed_|China|_H5N6_2015.304","D_a",NA,2015
+"560","EPI200256_duck_Guangdong_04_23_DGQTSJ147_O_2015_Mixed_|China|_H5N6_2015.307","D_a",NA,2015
+"561","EPI200257_duck_Guangdong_03_27_DGQTSJ121_P_2015_Mixed_|China|_H5N6_2015.233","D_a",NA,2015
+"562","EPI200258_environment_Jiangsu_12_30_WZNHQ012_2014_Mixed_|China|_H5N6_2014.995","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2014
+"563","EPI200259_duck_Guangdong_04_15_SZBAXQ019_2015_Mixed_|China|_H5N6_2015.285","D_a",NA,2015
+"564","EPI200260_environment_Guangdong_04_16_SZLGWLShui9_2015_Mixed_|China|_H5N6_2015.288","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"565","EPI200261_chicken_Hunan_12_07_YYGKY67_P_2013_Mixed_|China|_H5N6_2013.932","D_a",NA,2013
+"566","EPI200262_duck_Hunan_01_16_YYFQH128_P_2014_Mixed_|China|_H5N6_2014.041","D_a",NA,2014
+"567","EPI200263_chicken_Jilin_04_11_CCHSL007_2015_Mixed_|China|_H5N6_2015.274","D_a",NA,2015
+"568","EPI200264_duck_Hunan_04_14_YYGK0439_Z_P_2015_Mixed_|China|_H5N6_2015.282","D_a",NA,2015
+"569","EPI200265_duck_Hunan_12_17_YYFQH0046_1_O_2014_Mixed_|China|_H5N6_2014.959","D_a",NA,2014
+"570","EPI200266_duck_Sichuan_04_27_NBXJ711_2014_Mixed_|China|_H5N6_2014.318","D_a",NA,2014
+"571","EPI200267_chicken_Hunan_04_14_YYXS0812_O_2015_Mixed_|China|_H5N6_2015.282","D_a",NA,2015
+"572","EPI200268_duck_Hunan_12_17_YYFQH0072_O_2014_Mixed_|China|_H5N6_2014.959","D_a",NA,2014
+"573","EPI200269_chicken_Hunan_12_17_YYGK0048_2014_Mixed_|China|_H5N6_2014.959","D_a",NA,2014
+"574","EPI200270_environment_JiangXi_05_06_NCJD0100C_2015_Mixed_|China|_H5N6_2015.342","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"575","EPI200271_chicken_Jiangxi_05_06_NCDZT1212_O_2015_Mixed_|China|_H5N6_2015.342","D_a",NA,2015
+"576","EPI200272_duck_Jiangxi_04_01_NCDZT0304_O_2015_Mixed_|China|_H5N6_2015.247","D_a",NA,2015
+"577","EPI200273_chicken_Jiangxi_04_01_NCDZT0048_O_2015_Mixed_|China|_H5N6_2015.247","D_a",NA,2015
+"578","EPI200274_environment_Jiangxi_05_07_NCJD0009D_2015_Mixed_|China|_H5N6_2015.345","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"579","EPI200276_duck_Hubei_03_06_WHWTZ0111_O_2015_Mixed_|China|_H5N6_2015.175","D_a",NA,2015
+"580","EPI200277_duck_Hubei_03_06_WHWTZ0150_P_2015_Mixed_|China|_H5N6_2015.175","D_a",NA,2015
+"581","EPI200278_duck_Yunnan_03_16_DQXYL007_O_2015_Mixed_|China|_H5N6_2015.203","D_a",NA,2015
+"582","EPI200279_duck_Hunan_03_09_YYFQH0036_P_2015_Mixed_|China|_H5N6_2015.184","D_a",NA,2015
+"583","EPI200280_duck_Hunan_03_09_YYFQH0046_O_2015_Mixed_|China|_H5N6_2015.184","D_a",NA,2015
+"584","EPI200281_environment_Yunnan_03_15_DQWGH008_Z_2015_Mixed_|China|_H5N6_2015.200","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"585","EPI200282_environment_Yunnan_03_17_DQJT0015_Z_2015_Mixed_|China|_H5N6_2015.205","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"586","EPI200283_chicken_Yunnan_03_16_DQXYL061_1_O_2015_Mixed_|China|_H5N6_2015.203","D_a",NA,2015
+"587","EPI200284_environment_Hunan_04_14_YYGK394_2015_Mixed_|China|_H5N6_2015.282","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"588","EPI200285_duck_Hunan_04_14_YYGK451_1_O_2015_Mixed_|China|_H5N6_2015.282","D_a",NA,2015
+"589","EPI200286_duck_Hunan_04_14_YYGK0453_1_O_2015_Mixed_|China|_H5N6_2015.282","D_a",NA,2015
+"590","EPI200287_duck_Hunan_04_14_YYGK067_O_2015_Mixed_|China|_H5N6_2015.282","D_a",NA,2015
+"591","EPI200288_duck_Hunan_04_14_YYGK472_O_2015_Mixed_|China|_H5N6_2015.282","D_a",NA,2015
+"592","EPI200289_Pigeon_Hunan_04_14_YYXS0912_O_2015_Mixed_|China|_H5N6_2015.282","D_a","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"593","EPI200819_chicken_Yunnan_02_09_DQXY008L_2015_H5N6_|China|_H5N6_2015.107","D_a",NA,2015
+"594","EPI200820_goose_Yunnan_07_14_DQWCK119_2015_H5N6_|China|_H5N6_2015.532","D_a",NA,2015
+"595","EPI200821_goose_Yunnan_07_14_DQWCK122_2015_H5N6_|China|_H5N6_2015.532","D_a",NA,2015
+"596","EPI200822_duck_Yunnan_07_15_DQNPH124_2015_H5N6_|China|_H5N6_2015.534","D_a",NA,2015
+"597","EPI200823_duck_Yunnan_07_15_DQNPH125_2015_H5N6_|China|_H5N6_2015.534","D_a",NA,2015
+"598","EPI200824_duck_Yunnan_07_15_DQNPH127_2015_H5N6_|China|_H5N6_2015.534","D_a",NA,2015
+"599","EPI200825_duck_Yunnan_07_15_DQNPH129_2015_H5N6_|China|_H5N6_2015.534","D_a",NA,2015
+"600","EPI200826_environment_Yunnan_07_11_DQENM015_2015_H5N6_|China|_H5N6_2015.523","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"601","EPI200827_environment_Yunnan_07_11_DQENM006_2015_H5N6_|China|_H5N6_2015.523","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"602","EPI200828_environment_Yunnan_07_11_DQENM004_2015_H5N6_|China|_H5N6_2015.523","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"603","EPI200829_chicken_Yunnan_07_11_DQENM005_2015_H5N6_|China|_H5N6_2015.523","D_a",NA,2015
+"604","EPI200831_environment_Yunnan_07_11_DQXY011_2015_H5N6_|China|_H5N6_2015.523","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"605","EPI200832_environment_Yunnan_07_11_DQXY20_2015_H5N6_|China|_H5N6_2015.523","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"606","EPI200833_environment_Yunnan_02_09_DQWGH013_2E_2015_H5N6_|China|_H5N6_2015.107","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"607","EPI200834_environment_Yunnan_02_09_DQXY005_1E_2015_H5N6_|China|_H5N6_2015.107","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"608","EPI200835_environment_Yunnan_02_09_DQXY009_1E_2015_H5N6_|China|_H5N6_2015.107","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"609","EPI200836_environment_Yunnan_02_10_DQXY053_1E_2015_H5N6_|China|_H5N6_2015.110","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2015
+"610","EPI200837_Yunnan_DQ001_2015_H5N6_|China|_H5N6_2015.110","D_m",NA,2015
+"611","EPI200838_Yunnan_DQ002_2015_H5N6_|China|_H5N6_2015.521","D_m",NA,2015
+"612","EPI203646_Environment_Guangdong_79900_2014_|China|_H5N6_2014.805","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"613","EPI203647_Environment_Guangdong_79478_2014_|China|_H5N6_2014.729","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"614","EPI203648_Environment_Guangdong_79929_2014_|China|_H5N6_2014.805","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"615","EPI203649_Environment_Chongqing_28975_2014_|China|_H5N6_2014.214","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"616","EPI203650_Environment_Chongqing_72076_2014_|China|_H5N6_2014.381","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"617","EPI203651_Environment_Chongqing_28957_2014_|China|_H5N6_2014.211","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"618","EPI203652_Environment_Hunan_18327_2014_|China|_H5N6_2014.159","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"619","EPI203653_Environment_Zhejiang_21574_2014_|China|_H5N6_2014.055","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"620","EPI203654_Environment_Jiangxi_10733_2014_|China|_H5N6_2014.036","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"621","EPI203655_Environment_Chongqing_28970_2014_|China|_H5N6_2014.214","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"622","EPI205313_Shenzhen_1_2015_|China|_H5N6_2015.989","D_m",NA,2015
+"623","EPI205314_Environment_Shenzhen_1_2015_|China|_H5N6_2015.970","D_e","Sustained live poultry market surveillance contributes to early warnings for human infection with avian influenza viruses",2015
+"624","EPI205315_Environment_Shenzhen_2_2015_|China|_H5N6_2015.970","D_e","Sustained live poultry market surveillance contributes to early warnings for human infection with avian influenza viruses",2015
+"625","EPI205316_Environment_Shenzhen_3_2015_|China|_H5N6_2015.970","D_e","Sustained live poultry market surveillance contributes to early warnings for human infection with avian influenza viruses",2015
+"626","EPI205503_Shenzhen_TH001_2015_H5N6_|China|_H5N6_2015.992","D_m",NA,2015
+"627","EPI205821_peregrine_falcon_Hong_Kong_04955_2015_|Hong_Kong|_H5N6_2015.271","W_a",NA,2015
+"628","EPI205823_Oriental_magpie_robin_Hong_Kong_06154_2015_|Hong_Kong|_H5N6_2015.326","W_a",NA,2015
+"629","EPI205824_Oriental_magpie_robin_Hong_Kong_16759_2015_|Hong_Kong|_H5N6_2015.879","W_a",NA,2015
+"630","EPI205825_great_egret_Hong_Kong_00032_2016_|Hong_Kong|_H5N6_2016.003","W_a",NA,2016
+"631","EPI205959_Duck_Guangdong_SS1A1_2014H5N6_|China|_H5N6_2014.200","D_a",NA,2014
+"632","EPI205961_Goose_Guangdong_JG125_2013H5N6_|China|_H5N6_2014.271","D_a",NA,2014
+"633","EPI205962_Duck_Guangdong_PY501_2014H5N6_|China|_H5N6_2014.953","D_a",NA,2014
+"634","EPI205963_Duck_Guangdong_PY503_2014H5N6_|China|_H5N6_2014.953","D_a",NA,2014
+"635","EPI205964_Chicken_Guangdong_FG594_2015H5N6_|China|_H5N6_2015.595","D_a",NA,2015
+"636","EPI205965_Enviroment_Guangdong_SS127_2013_H5N6_|China|_H5N6_2014.214","D_e","Novel Reassortant Avian Influenza A(H5N6) Viruses in Humans, Guangdong, China, 2015",2014
+"637","EPI205966_Goose_Guangdong_SSLBY_2015H5N6_|China|_H5N6_2015.005","D_a",NA,2015
+"638","EPI205967_Goose_Guangdong_SSZYP_2015H5N6_|China|_H5N6_2014.288","D_a",NA,2014
+"639","EPI206036_Shenzhen_1_2016_|China|_H5N6_2016.016","D_m",NA,2016
+"640","EPI206568_Guangdong_SZ872_2015H5N6_|China|_H5N6_2015.989","D_m",NA,2015
+"641","EPI206569_Guangdong_ZQ874_2015H5N6_|China|_H5N6_2015.997","D_m",NA,2015
+"642","EPI207048_Shenzhen_TH003_2016_H5N6_|China|_H5N6_2016.038","D_m",NA,2016
+"643","EPI207051_Shenzhen_TH002_2016_H5N6_|China|_H5N6_2016.014","D_m",NA,2016
+"644","EPI219760_Environment_Hunan_28147_2014_|China|_H5N1_2014.323","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"645","EPI219770_Environment_Hunan_18459_2014_|China|_H5N1_2014.148","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"646","EPI219771_Environment_Hunan_25952_2014_|China|_H5N1_2014.227","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"647","EPI219776_Environment_Hunan_18478_2014_|China|_H5N1_2014.189","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"648","EPI219777_Environment_Chongqing_45355_2015_|China|_H5N2_2015.633","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"649","EPI219778_Environment_Hubei_45047_2015_|China|_H5N2_2015.586","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"650","EPI219779_Environment_Hubei_45046_2015_|China|_H5N2_2015.586","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"651","EPI219780_Environment_Qinghai_42934_2015_|China|_H5N2_2015.570","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"652","EPI219781_Environment_Qinghai_39266_2015_|China|_H5N2_2015.263","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"653","EPI219782_Environment_Chongqing_47485_2015_|China|_H5N6_2015.874","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"654","EPI219783_Environment_Guangxi_46690_2015_|China|_H5N6_2015.855","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"655","EPI219784_Environment_Chongqing_45440_2014_|China|_H5N6_2014.953","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"656","EPI219785_Environment_Chongqing_45439_2014_|China|_H5N6_2014.953","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"657","EPI219786_Environment_Chongqing_45378_2015_|China|_H5N6_2015.710","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"658","EPI219787_Environment_Chongqing_45373_2015_|China|_H5N6_2015.704","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"659","EPI219788_Environment_Chongqing_45349_2015_|China|_H5N6_2015.633","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"660","EPI219789_Environment_Chongqing_45379_2015_|China|_H5N6_2015.710","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"661","EPI219790_Environment_Chongqing_45208_2015_|China|_H5N6_2015.208","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"662","EPI219791_Environment_Chongqing_45221_2015_|China|_H5N6_2015.266","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"663","EPI219792_Environment_Chongqing_45185_2015_|China|_H5N6_2015.189","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"664","EPI219793_Environment_Chongqing_45155_2015_|China|_H5N6_2015.115","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"665","EPI219794_Environment_Chongqing_45114_2015_|China|_H5N6_2015.052","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"666","EPI219795_Environment_Chongqing_45134_2015_|China|_H5N6_2015.052","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"667","EPI219796_Environment_Hubei_45035_2015_|China|_H5N6_2015.710","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"668","EPI219797_Environment_Hubei_45034_2015_|China|_H5N6_2015.710","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"669","EPI219798_Environment_Guangxi_44389_2015_|China|_H5N6_2015.781","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"670","EPI219799_Environment_Chongqing_99173_2014_|China|_H5N6_2014.879","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"671","EPI219800_Environment_Guangxi_42586_2015_|China|_H5N6_2015.249","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"672","EPI219801_Environment_Anhui_72105_2014_|China|_H5N6_2014.381","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"673","EPI219802_Environment_Chongqing_77193_2014_|China|_H5N6_2014.600","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"674","EPI219803_Environment_Guangdong_77245_2014_|China|_H5N6_2014.627","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"675","EPI219804_Environment_Hunan_18487_2014_|China|_H5N6_2014.189","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"676","EPI219805_Environment_Jiangxi_10649_2014_|China|_H5N6_2014.063","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"677","EPI219806_Environment_Jiangxi_10717_2014_|China|_H5N6_2014.038","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"678","EPI219807_Environment_Guangdong_40929_2015_|China|_H5N6_2015.452","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"679","EPI219808_Environment_Guangdong_40113_2015_|China|_H5N6_2015.356","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"680","EPI219809_Environment_Chongqing_72096_2014_|China|_H5N6_2014.364","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"681","EPI219810_Environment_Yunnan_39607_2015_|China|_H5N6_2015.214","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"682","EPI219811_Environment_Hubei_38005_2014_|China|_H5N6_2014.934","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"683","EPI219812_Environment_Hubei_37983_2014_|China|_H5N6_2014.647","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"684","EPI219813_Environment_Guangdong_33311_2015_|China|_H5N6_2015.225","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"685","EPI219814_Environment_Guangdong_21131_2015_|China|_H5N6_2015.052","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"686","EPI219815_Environment_Guangdong_21109_2015_|China|_H5N6_2015.052","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"687","EPI219816_Environment_Hunan_07767_2015_|China|_H5N6_2015.019","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"688","EPI219817_Environment_Hunan_07681_2015_|China|_H5N6_2015.055","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2015
+"689","EPI219818_Environment_Xinjiang_07002_2014_|China|_H5N6_2014.995","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"690","EPI219819_Environment_Chongqing_99178_2014_|China|_H5N6_2014.882","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"691","EPI219820_Environment_Xinjiang_00320_2014_|China|_H5N6_2014.805","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"692","EPI219821_Environment_Xinjiang_00318_2014_|China|_H5N6_2014.805","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"693","EPI219822_Environment_Xinjiang_00300_2014_|China|_H5N6_2014.803","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"694","EPI219823_Environment_Guangdong_00299_2014_|China|_H5N6_2014.918","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"695","EPI219824_Environment_Xinjiang_00324_2014_|China|_H5N6_2014.805","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"696","EPI219825_Environment_Hunan_98885_2014_|China|_H5N6_2014.858","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"697","EPI219826_Environment_Chongqing_99181_2014_|China|_H5N6_2014.882","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"698","EPI219827_Environment_Chongqing_99166_2014_|China|_H5N6_2014.800","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"699","EPI219828_Guangdong_99710_2014_|China|_H5N6_2014.959","D_m",NA,2014
+"700","EPI219829_Environment_Jiangsu_98335_2014_|China|_H5N8_2014.822","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"701","EPI219844_Environment_Hunan_72935_2014_|China|_H5N2_2014.405","D_e","Genesis and dissemination of highly pathogenic H5N6 avian influenza viruses",2014
+"702","EPI221705_duck_Guangdong_01_01_SZSGXJK001_Y_2016_|China|_H5N6_2016.000","D_a",NA,2016
+"703","EPI221706_duck_Guangdong_01_01_SZSGXJK001_G_2016_|China|_H5N6_2016.000","D_a",NA,2016
+"704","EPI221707_duck_Guangdong_01_01_SZSGXJK002_Y_2016_|China|_H5N6_2016.000","D_a",NA,2016
+"705","EPI221708_duck_Guangdong_01_01_SZSGXJK002_G_2016_|China|_H5N6_2016.000","D_a",NA,2016
+"706","EPI221709_duck_Guangdong_01_01_SZSGXJK003_G_2016_|China|_H5N6_2016.000","D_a",NA,2016
+"707","EPI221710_duck_Guangdong_01_01_SZSGXJK004_Y_2016_|China|_H5N6_2016.000","D_a",NA,2016
+"708","EPI221711_duck_Guangdong_01_01_SZSGXJK003_W_2016_|China|_H5N6_2016.000","D_a",NA,2016
+"709","EPI221712_duck_Guangdong_01_01_SZSGXJK005_Y_2016_|China|_H5N6_2016.000","D_a",NA,2016
+"710","EPI221713_duck_Guangdong_01_01_SZSGXJK005_G_2016_|China|_H5N6_2016.000","D_a",NA,2016
+"711","EPI221714_duck_Guangdong_01_01_SZSGXJK006_Y_2016_|China|_H5N6_2016.000","D_a",NA,2016
+"712","EPI221715_duck_Guangdong_01_01_SZSGXJK006_G_2016_|China|_H5N6_2016.000","D_a",NA,2016
+"713","EPI221716_duck_Guangdong_01_01_SZSGXJK007_G_2016_|China|_H5N6_2016.000","D_a",NA,2016
+"714","EPI221719_environment_Guangdong_01_01_SZSGXJK006_E_2016_|China|_H5N6_2016.000","D_e","Genesis, Evolution and Prevalence of H5N6 Avian Influenza Viruses in China",2016
+"715","EPI221885_chicken_Guangdong_10_16_SZLGKQHY_072_2015_|China|_H5N6_2015.789","D_a",NA,2015
+"716","EPI223364_chicken_Wuxi_SC7393_2015_|China|_H5N6_2014.633","D_a",NA,2014
+"717","EPI224704_Bar_headed_Goose_Qinghai_BTY1_B_2016_|China|_H5N8_2016.352","W_a",NA,2016
+"718","EPI224707_Bar_headed_Goose_Qinghai_BTY2_B_2016_|China|_H5N8_2016.361","W_a",NA,2016
+"719","EPI224708_Bar_headed_Goose_Qinghai_BTY2_LU_2016_|China|_H5N8_2016.361","W_a",NA,2016
+"720","EPI224709_Bar_headed_Goose_Qinghai_BTY3_B_2016_|China|_H5N8_2016.361","W_a",NA,2016
+"721","EPI224710_Bar_headed_Goose_Qinghai_BTY3_LU_2016_|China|_H5N8_2016.361","W_a",NA,2016
+"722","EPI224711_Bar_headed_Goose_Qinghai_BTY4_B_2016_|China|_H5N8_2016.361","W_a",NA,2016
+"723","EPI224712_Bar_headed_Goose_Qinghai_BTY4_LU_2016_|China|_H5N8_2016.361","W_a",NA,2016
+"724","EPI224713_Bar_headed_Goose_Qinghai_BTY5_B_2016_|China|_H5N8_2016.361","W_a",NA,2016
+"725","EPI224714_Bar_headed_Goose_Qinghai_BTY6_B_2016_|China|_H5N8_2016.358","W_a",NA,2016
+"726","EPI224715_Bar_headed_Goose_Qinghai_BTY6_LU_2016_|China|_H5N8_2016.358","W_a",NA,2016
+"727","EPI224716_Bar_headed_Goose_Qinghai_BTY7_B_2016_|China|_H5N8_2016.358","W_a",NA,2016
+"728","EPI224717_Bar_headed_Goose_Qinghai_BTY7_LU1_2016_|China|_H5N8_2016.358","W_a",NA,2016
+"729","EPI224718_Bar_headed_Goose_Qinghai_BTY7_LU2_2016_|China|_H5N8_2016.358","W_a",NA,2016
+"730","EPI224719_Bar_headed_Goose_Qinghai_BTY8_B_2016_|China|_H5N8_2016.355","W_a",NA,2016
+"731","EPI224720_Bar_headed_Goose_Qinghai_BTY8_LU_2016_|China|_H5N8_2016.355","W_a",NA,2016
+"732","EPI224721_Bar_headed_Goose_Qinghai_BTY9_B_2016_|China|_H5N8_2016.352","W_a",NA,2016
+"733","EPI224722_Bar_headed_Goose_Qinghai_BTY9_LU_2016_|China|_H5N8_2016.352","W_a",NA,2016
+"734","EPI224723_Bar_headed_Goose_Qinghai_BTY10_B_2016_|China|_H5N8_2016.352","W_a",NA,2016
+"735","EPI224724_Bar_headed_Goose_Qinghai_BTY10_LU_2016_|China|_H5N8_2016.352","W_a",NA,2016
+"736","EPI224725_Bar_headed_Goose_Qinghai_BTY11_B_2016_|China|_H5N8_2016.352","W_a",NA,2016
+"737","EPI224726_Bar_headed_Goose_Qinghai_BTY11_LU_2016_|China|_H5N8_2016.352","W_a",NA,2016
+"738","EPI224727_Bar_headed_Goose_Qinghai_BTY12_B_2016_|China|_H5N8_2016.363","W_a",NA,2016
+"739","EPI224728_Bar_headed_Goose_Qinghai_BTY12_LU_2016_|China|_H5N8_2016.363","W_a",NA,2016
+"740","EPI224729_Bar_headed_Goose_Qinghai_BTY13_B_2016_|China|_H5N8_2016.366","W_a",NA,2016
+"741","EPI224730_Bar_headed_Goose_Qinghai_BTY13_LU_2016_|China|_H5N8_2016.366","W_a",NA,2016
+"742","EPI224731_Bar_headed_Goose_Qinghai_BTY14_B_2016_|China|_H5N8_2016.366","W_a",NA,2016
+"743","EPI224732_Bar_headed_Goose_Qinghai_BTY14_LU_2016_|China|_H5N8_2016.366","W_a",NA,2016
+"744","EPI224733_Bar_headed_Goose_Qinghai_BTY15_B_2016_|China|_H5N8_2016.366","W_a",NA,2016
+"745","EPI224734_Bar_headed_Goose_Qinghai_BTY15_LU_2016_|China|_H5N8_2016.366","W_a",NA,2016
+"746","EPI224735_Bar_headed_Goose_Qinghai_BTY16_B_2016_|China|_H5N8_2016.366","W_a",NA,2016
+"747","EPI224736_Bar_headed_Goose_Qinghai_BTY16_LU_2016_|China|_H5N8_2016.366","W_a",NA,2016
+"748","EPI224737_Bar_headed_Goose_Qinghai_BTY17_B_2016_|China|_H5N8_2016.369","W_a",NA,2016
+"749","EPI224738_Bar_headed_Goose_Qinghai_BTY17_LU_2016_|China|_H5N8_2016.369","W_a",NA,2016
+"750","EPI224739_Bar_headed_Goose_Qinghai_BTY18_B_2016_|China|_H5N8_2016.369","W_a",NA,2016
+"751","EPI224740_Bar_headed_Goose_Qinghai_BTY18_LU_2016_|China|_H5N8_2016.369","W_a",NA,2016
+"752","EPI224742_Brown_headed_Gull_Qinghai_ZTO1_B_2016_|China|_H5N8_2016.331","W_a",NA,2016
+"753","EPI224743_Brown_headed_Gull_Qinghai_ZTO1_LU_2016_|China|_H5N8_2016.331","W_a",NA,2016
+"754","EPI224744_Brown_headed_Gull_Qinghai_ZTO3_B_2016_|China|_H5N8_2016.361","W_a",NA,2016
+"755","EPI224745_Brown_headed_Gull_Qinghai_ZTO3_LU_2016_|China|_H5N8_2016.361","W_a",NA,2016
+"756","EPI224746_Brown_headed_Gull_Qinghai_ZTO4_B_2016_|China|_H5N8_2016.358","W_a",NA,2016
+"757","EPI224747_Brown_headed_Gull_Qinghai_ZTO5_B_2016_|China|_H5N8_2016.366","W_a",NA,2016
+"758","EPI224748_Brown_headed_Gull_Qinghai_ZTO5_K_2016_|China|_H5N8_2016.366","W_a",NA,2016
+"759","EPI224749_Brown_headed_Gull_Qinghai_ZTO6_B_2016_|China|_H5N8_2016.369","W_a",NA,2016
+"760","EPI224750_Brown_headed_Gull_Qinghai_ZTO6_SP_2016_|China|_H5N8_2016.369","W_a",NA,2016
+"761","EPI224751_Brown_headed_Gull_Qinghai_ZTO6_MU_2016_|China|_H5N8_2016.369","W_a",NA,2016
+"762","EPI224752_Great_Black_headed_Gull_Qinghai_YO1_B_2016_|China|_H5N8_2016.369","W_a",NA,2016
+"763","EPI240703_Hunan_55555_2016_|China|_H5N6_2016.880","D_m",NA,2016
+"764","EPI240704_Guangxi_55726_2016_|China|_H5N6_2016.896","D_m",NA,2016
+"765","EPI255388_goose_Hunan_161_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"766","EPI255389_chicken_Anhui_AH325_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"767","EPI255412_chicken_Hunan_HN158_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"768","EPI255413_chicken_Hunan_HN244_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"769","EPI255414_chicken_Hunan_HN245_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"770","EPI255415_chicken_Hunan_HN247_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"771","EPI255416_chicken_Hunan_HN248_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"772","EPI255417_chicken_Hunan_HN249_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"773","EPI255418_chicken_Hunan_HN250_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"774","EPI255419_chicken_Hunan_HN251_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"775","EPI255420_chicken_Hunan_HN252_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"776","EPI255421_chicken_Hunan_HN254_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"777","EPI255422_chicken_Hunan_HN263_2015_|China|_H5N6_2015.956","D_a",NA,2015
+"778","EPI255423_chicken_Hunan_HN255_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"779","EPI255424_chicken_Hunan_HN264_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"780","EPI255425_chicken_Hunan_HN265_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"781","EPI255426_chicken_Hunan_HN266_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"782","EPI255427_chicken_Hunan_HN301_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"783","EPI255428_chicken_Hunan_HN302_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"784","EPI255429_chicken_Hunan_HN303_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"785","EPI255430_chicken_Hunan_HN304_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"786","EPI255433_chicken_Hunan_HN305_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"787","EPI255466_chicken_Hunan_HN306_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"788","EPI255467_chicken_Hunan_HN307_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"789","EPI255468_chicken_Hunan_HN308_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"790","EPI255469_chicken_Hunan_HN40_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"791","EPI255470_chicken_Hunan_HN58_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"792","EPI255489_chicken_Hunan_HN75_2015_|China|_H5N6_2015.693","D_a",NA,2015
+"793","EPI255491_duck_Anhui_AH328_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"794","EPI255492_duck_Hunan_193_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"795","EPI255493_duck_Hunan_233_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"796","EPI255509_duck_Hunan_HN05_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"797","EPI255529_duck_Hunan_HN13_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"798","EPI255530_duck_Hunan_HN16_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"799","EPI255534_duck_Hunan_HN162_2015_|China|_H5N6_2015.693","D_a",NA,2015
+"800","EPI255559_duck_Hunan_HN163_2015_|China|_H5N6_2015.693","D_a",NA,2015
+"801","EPI255561_duck_Hunan_HN167_2015_|China|_H5N6_2015.693","D_a",NA,2015
+"802","EPI255562_duck_Hunan_HN171_2015_|China|_H5N6_2015.693","D_a",NA,2015
+"803","EPI255563_duck_Hunan_HN172_2015_|China|_H5N6_2015.693","D_a",NA,2015
+"804","EPI255564_duck_Hunan_HN174_2015_|China|_H5N6_2015.693","D_a",NA,2015
+"805","EPI255587_duck_Hunan_HN176_2015_|China|_H5N6_2015.693","D_a",NA,2015
+"806","EPI255592_duck_Hunan_HN177_2015_|China|_H5N6_2015.693","D_a",NA,2015
+"807","EPI255597_duck_Hunan_HN178_2015_|China|_H5N6_2015.693","D_a",NA,2015
+"808","EPI255599_duck_Hunan_HN182_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"809","EPI255600_duck_Hunan_HN183_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"810","EPI255603_duck_Hunan_HN186_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"811","EPI255605_duck_Hunan_HN190_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"812","EPI255607_duck_Hunan_HN191_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"813","EPI255609_duck_Hunan_HN192_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"814","EPI255610_duck_Hunan_HN194_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"815","EPI255612_duck_Hunan_HN195_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"816","EPI255613_duck_Hunan_HN197_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"817","EPI255614_duck_Hunan_HN201_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"818","EPI255615_duck_Hunan_HN204_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"819","EPI255616_duck_Hunan_HN205_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"820","EPI255617_duck_Hunan_HN206_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"821","EPI255618_duck_Hunan_HN207_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"822","EPI255619_duck_Hunan_HN208_2015_|China|_H5N6_2015.696","D_a",NA,2015
+"823","EPI255620_duck_Hunan_HN209_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"824","EPI255621_duck_Hunan_HN210_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"825","EPI255624_duck_Hunan_HN212_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"826","EPI255689_duck_Hunan_HN214_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"827","EPI255691_duck_Hunan_HN215_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"828","EPI255692_duck_Hunan_HN216_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"829","EPI255694_duck_Hunan_HN217_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"830","EPI255695_duck_Hunan_HN220_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"831","EPI255698_duck_Hunan_HN221_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"832","EPI255699_duck_Hunan_HN224_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"833","EPI255701_duck_Hunan_HN227_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"834","EPI255702_duck_Hunan_HN230_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"835","EPI255738_duck_Hunan_HN236_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"836","EPI255741_duck_Hunan_HN238_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"837","EPI255742_duck_Hunan_HN239_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"838","EPI255743_duck_Hunan_HN240_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"839","EPI255744_duck_Hunan_HN241_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"840","EPI255746_duck_Hunan_HN242_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"841","EPI255747_duck_Hunan_HN271_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"842","EPI255749_duck_Hunan_HN277_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"843","EPI255751_duck_Hunan_HN278_2015_|China|_H5N6_2015.956","D_a",NA,2015
+"844","EPI255752_duck_Hunan_HN285_2015_|China|_H5N6_2015.956","D_a",NA,2015
+"845","EPI255754_duck_Hunan_HN288_2015_|China|_H5N6_2015.956","D_a",NA,2015
+"846","EPI255755_duck_Hunan_HN29_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"847","EPI255756_duck_Hunan_HN333_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"848","EPI255757_duck_Hunan_HN334_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"849","EPI255758_duck_Hunan_HN335_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"850","EPI255759_duck_Hunan_HN336_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"851","EPI255760_duck_Hunan_HN339_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"852","EPI255761_duck_Hunan_HN341_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"853","EPI255762_duck_Hunan_HN342_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"854","EPI255763_duck_Hunan_HN343_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"855","EPI255764_duck_Hunan_HN42_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"856","EPI255765_duck_Hunan_HN45_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"857","EPI255766_duck_Hunan_HN53_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"858","EPI255768_duck_Hunan_HN54_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"859","EPI255769_duck_Hunan_HN59_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"860","EPI255770_duck_Hunan_HN60_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"861","EPI255771_duck_Hunan_HN61_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"862","EPI255772_duck_Hunan_HN64_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"863","EPI255773_duck_Hunan_HN66_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"864","EPI255774_duck_Hunan_HN67_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"865","EPI255775_duck_Hunan_HN71_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"866","EPI255816_duck_Hunan_HN72_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"867","EPI255817_duck_Hunan_HN74_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"868","EPI255818_duck_Hunan_HN76_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"869","EPI255819_duck_Hunan_HN78_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"870","EPI255820_duck_Hunan_HN80_2015_|China|_H5N6_2015.260","D_a",NA,2015
+"871","EPI255821_environment_Hunan_HN261_2015_|China|_H5N6_2015.956","D_e","Molecular Evolution and Emergence of H5N6 Avian Influenza Virus in Central China",2015
+"872","EPI255822_goose_Anhui_AH350_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"873","EPI255823_goose_Hubei_113_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"874","EPI255824_goose_HuBei_117_2014_|China|_H5N6_2015.866","D_a",NA,2015
+"875","EPI255825_goose_Hunan_107_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"876","EPI255826_goose_Hunan_109_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"877","EPI255827_goose_Hunan_110_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"878","EPI255828_goose_Hunan_111_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"879","EPI255829_goose_Hunan_115_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"880","EPI255830_goose_Hunan_116_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"881","EPI255831_goose_Hunan_155_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"882","EPI255832_goose_Hunan_159_2014_|China|_H5N6_2015.866","D_a",NA,2015
+"883","EPI255833_goose_Hunan_160_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"884","EPI255834_goose_Hunan_81_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"885","EPI255835_goose_Hunan_82_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"886","EPI255836_goose_Hunan_HN11_2015_|China|_H5N6_2015.263","D_a",NA,2015
+"887","EPI255837_goose_Hunan_HN22_2015_|China|_H5N6_2015.263","D_a",NA,2015
+"888","EPI255838_goose_Hunan_HN310_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"889","EPI255839_goose_Hunan_HN311_2015_|China|_H5N6_2015.959","D_a",NA,2015
+"890","EPI255840_goose_Hunan_HN314_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"891","EPI255841_goose_Hunan_HN315_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"892","EPI255842_goose_Hunan_HN316_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"893","EPI255843_goose_Hunan_HN317_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"894","EPI255844_goose_Hunan_HN318_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"895","EPI255845_goose_Hunan_HN319_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"896","EPI255846_goose_Hunan_HN325_2015_|China|_H5N6_2015.962","D_a",NA,2015
+"897","EPI255847_goose_Hunan_HN57_2015_|China|_H5N6_2015.699","D_a",NA,2015
+"898","EPI255848_goose_Hunan_HN88_2015_|China|_H5N6_2015.263","D_a",NA,2015
+"899","EPI255849_goose_Hunan_HN90_2015_|China|_H5N6_2015.263","D_a",NA,2015
+"900","EPI255850_goose_SiChuan_15_2015_|China|_H5N6_2015.263","D_a",NA,2015
+"901","EPI255851_muscovy_duck_Hunan_101_2014_|China|_H5N6_2014.860","D_a",NA,2014
+"902","EPI255852_muscovy_duck_Hunan_102_2014_|China|_H5N6_2014.860","D_a",NA,2014
+"903","EPI255853_muscovy_duck_Hunan_103_2014_|China|_H5N6_2014.860","D_a",NA,2014
+"904","EPI255854_muscovy_duck_Hunan_104_2014_|China|_H5N6_2014.860","D_a",NA,2014
+"905","EPI255857_muscovy_duck_Hunan_125_2014_|China|_H5N6_2014.863","D_a",NA,2014
+"906","EPI255858_muscovy_duck_Hunan_147_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"907","EPI255859_muscovy_duck_Hunan_148_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"908","EPI255860_muscovy_duck_Hunan_167_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"909","EPI255861_muscovy_duck_Hunan_183_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"910","EPI255862_muscovy_duck_Hunan_202_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"911","EPI255863_muscovy_duck_Hunan_216_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"912","EPI255864_muscovy_duck_Hunan_229_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"913","EPI255865_muscovy_duck_Hunan_232_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"914","EPI255866_muscovy_duck_Hunan_85_2014_|China|_H5N6_2014.860","D_a",NA,2014
+"915","EPI255867_muscovy_duck_Hunan_88_2014_|China|_H5N6_2014.860","D_a",NA,2014
+"916","EPI255868_muscovy_duck_Hunan_89_2014_|China|_H5N6_2014.860","D_a",NA,2014
+"917","EPI255869_muscovy_duck_Hunan_90_2014_|China|_H5N6_2014.860","D_a",NA,2014
+"918","EPI255870_muscovy_duck_Hunan_93_2014_|China|_H5N6_2014.860","D_a",NA,2014
+"919","EPI255871_muscovy_duck_Hunan_94_2014_|China|_H5N6_2014.860","D_a",NA,2014
+"920","EPI255872_muscovy_duck_Hunan_HN346_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"921","EPI255873_muscovy_duck_Hunan_HN347_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"922","EPI255874_muscovy_duck_Hunan_HN348_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"923","EPI255875_muscovy_duck_Hunan_HN349_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"924","EPI255876_muscovy_duck_Hunan_HN350_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"925","EPI255877_muscovy_duck_Hunan_HN351_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"926","EPI255878_muscovy_duck_Hunan_HN352_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"927","EPI255879_muscovy_duck_Hunan_HN353_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"928","EPI255880_muscovy_duck_Hunan_HN354_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"929","EPI255881_muscovy_duck_Hunan_HN355_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"930","EPI255882_muscovy_duck_Hunan_HN356_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"931","EPI255883_muscovy_duck_Hunan_HN358_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"932","EPI255884_muscovy_duck_Hunan_HN359_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"933","EPI255885_muscovy_duck_Hunan_HN360_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"934","EPI255886_muscovy_duck_Hunan_HN364_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"935","EPI255887_muscovy_duck_Hunan_HN365_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"936","EPI255888_muscovy_duck_Hunan_HN366_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"937","EPI255889_muscovy_duck_Hunan_HN368_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"938","EPI256213_Hubei_29578_2016_|China|_H5N6_2016.287","D_m",NA,2016
+"939","EPI266596_swine_Guangdong_G3_2015_|China|_H5N6_2015.230","D_m",NA,2015
+"940","EPI266600_enviroment_Guangdong_F3_2015_|China|_H5N6_2015.992","U_e",NA,2015
+"941","EPI266819_enviroment_Guangdong_F4_2016_|China|_H5N6_2016.167","U_e",NA,2016
+"942","EPI277035_chicken_Wuxi_6074_2015_|China|_H5N2_2015.455","D_a",NA,2015
+"943","EPI277036_duck_Wuxi_6462_2015_|China|_H5N2_2015.627","D_a",NA,2015
+"944","EPI277037_duck_Wuxi_6466_2015_|China|_H5N2_2015.627","D_a",NA,2015
+"945","EPI277040_chicken_Wuxi_7157_2015_|China|_H5N6_2015.964","D_a",NA,2015
+"946","EPI277041_duck_Wuxi_7249_2015_|China|_H5N6_2015.967","D_a",NA,2015
+"947","EPI277042_chicken_Wuxi_7765_2016_|China|_H5N6_2016.199","D_a",NA,2016
+"948","EPI278025_Duck_Zhanjiang_15577_2015_|China|_H5N6_2015.501","D_a",NA,2015
+"949","EPI278026_Chicken_Huizhou_16274_2016_H5N6_|China|_H5N6_2016.164","D_a",NA,2016
+"950","EPI278027_Goose_Qingyuan_16875_2016_|China|_H5N6_2016.658","D_a",NA,2016
+"951","EPI278031_Quail_Zhanjiang_16887_2016_|China|_H5N6_2016.620","D_a",NA,2016
+"952","EPI73294_Zhejiang_1_2006_|China|_H5N1_2006.110","D_m",NA,2006
+"953","EPI79677_Hunan_1_2006_|China|_H5N1_2006.071","D_m",NA,2006
+"954","EPI79678_Guangdong_1_2006_|China|_H5N1_2006.142","D_m",NA,2006
+"955","EPI79682_Fujian_1_2007_|China|_H5N1_2007.132","D_m",NA,2007
+"956","EPI79683_Jiangsu_1_2007_|China|_H5N1_2007.896","D_m",NA,2007
+"957","EPI79684_Jiangsu_2_2007_|China|_H5N1_2007.921","D_m",NA,2007
+"958","EU195392_mallard_Huadong_S_2005_|China|_H5N1_2005.496","D_a","Characterization of duck H5N1 influenza viruses with differing pathogenicity in mallard (Anas platyrhynchos) ducks",2005
+"959","EU195400_mallard_Huadong_lk_2005_|China|_H5N1_2005.496","D_a","Characterization of duck H5N1 influenza viruses with differing pathogenicity in mallard (Anas platyrhynchos) ducks",2005
+"960","EU263981_China_GD02_2006_|China|_H5N1_2006.496","D_m",NA,2006
+"961","EU329177_wild_duck_Hunan_021_2005_|China|_H5N1_2005.496","W_a",NA,2005
+"962","EU329186_wild_duck_Hunan_211_2005_|China|_H5N1_2005.496","W_a",NA,2005
+"963","EU594349_duck_Hubei_Hangmei01_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"964","FJ492881_Sichuan_1_2006_|China|_H5N1_2006.005","D_m",NA,2006
+"965","FJ492882_Fujian_1_2005_|China|_H5N1_2005.929","D_m",NA,2005
+"966","FJ492884_Guangdong_01_2006_|China|_H5N1_2006.170","D_m",NA,2006
+"967","FJ492885_Jiangxi_1_2005_|China|_H5N1_2005.923","D_m",NA,2005
+"968","FJ784841_duck_Hunan_689_2006_|China|_H5N1_2006.953","D_a",NA,2006
+"969","FJ784842_chicken_Anhui_1089_2007_|China|_H5N1_2007.074","D_a",NA,2007
+"970","FJ784843_chicken_Henan_1362_2006_|China|_H5N1_2006.995","D_a",NA,2006
+"971","FJ784844_duck_Henan_1647_2006_|China|_H5N1_2006.995","D_a",NA,2006
+"972","FJ784845_duck_Henan_1650_2006_|China|_H5N1_2006.995","D_a",NA,2006
+"973","FJ784846_duck_Henan_1652_2006_|China|_H5N1_2006.995","D_a",NA,2006
+"974","FJ784847_chicken_Hunan_1793_2007_|China|_H5N1_2007.060","D_a",NA,2007
+"975","FJ784848_duck_Hunan_1930_2007_|China|_H5N1_2007.060","D_a",NA,2007
+"976","FJ784849_duck_Hunan_1964_2007_|China|_H5N1_2007.060","D_a",NA,2007
+"977","FJ784850_duck_Hunan_1994_2007_|China|_H5N1_2007.060","D_a",NA,2007
+"978","FJ784851_chicken_Hubei_2856_2007_|China|_H5N1_2007.077","D_a",NA,2007
+"979","FJ784852_duck_Hubei_2911_2007_|China|_H5N1_2007.077","D_a",NA,2007
+"980","FJ784853_chicken_Hubei_3002_2007_|China|_H5N1_2007.077","D_a",NA,2007
+"981","FJ784854_chicken_Hunan_3157_2006_|China|_H5N1_2006.912","D_a",NA,2006
+"982","FJ784855_duck_Hunan_3315_2006_|China|_H5N1_2006.912","D_a",NA,2006
+"983","FJ784856_duck_Hunan_3340_2006_|China|_H5N1_2006.912","D_a",NA,2006
+"984","GQ202211_tree_sparrow_Jiangsu_1_2008_|China|_H5N1_2008.497","W_a",NA,2008
+"985","GU050310_avian_Hong_Kong_2065_2007_|Hong_Kong|_H5N1_2007.496","D_a","GenBank",2007
+"986","GU050317_avian_Hong_Kong_0719_2007_|Hong_Kong|_H5N1_2007.496","D_a","GenBank",2007
+"987","GU050325_avian_Hong_Kong_0828_2007_|Hong_Kong|_H5N1_2007.496","D_a","GenBank",2007
+"988","GU050333_avian_Hong_Kong_2372_2007_|Hong_Kong|_H5N1_2007.496","D_a","GenBank",2007
+"989","GU050341_avian_Hong_Kong_1993_2007_|Hong_Kong|_H5N1_2007.496","D_a","GenBank",2007
+"990","GU052486_chicken_Hong_Kong_D_06_0947_2006_|Hong_Kong|_H5N1_2006.496","D_a",NA,2006
+"991","GU182182_environment_Hunan_6_69_2008_|China|_H5N1_2008.123","W_e","GenBank",2008
+"992","GU182214_environment_Hunan_1_8_2007_|China|_H5N1_2007.200","W_e","GenBank",2007
+"993","GU220793_lesser_kestrel_Heilongjiang_194_2007_|China|_H5N1_2007.025","W_a",NA,2007
+"994","GU596984_duck_Shandong_009_2008_|China|_H5N1_2008.954","D_a",NA,2008
+"995","GU727653_duck_Eastern_China_008_2008_|China|_H5N5_2008.954","D_a",NA,2008
+"996","GU727661_duck_Eastern_China_031_2009_|China|_H5N5_2009.038","D_a",NA,2009
+"997","GU727669_duck_Eastern_China_108_2008_|China|_H5N1_2008.954","D_a",NA,2008
+"998","GU727677_duck_Eastern_China_909_2009_|China|_H5N1_2009.038","D_a",NA,2009
+"999","HM172069_chicken_Sichuan_81_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"1000","HM172070_goose_Hubei_65_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"1001","HM172071_duck_Hubei_49_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"1002","HM172072_Anhui_2_2005_|China|_H5N1_2005.496","D_m",NA,2005
+"1003","HM172074_chicken_Hunan_1_2009_|China|_H5N1_2009.496","D_a",NA,2009
+"1004","HM172079_chicken_Guizhou_7_2008_|China|_H5N1_2008.497","D_a",NA,2008
+"1005","HM172086_chicken_Tibet_6_2008_|China|_H5N1_2008.497","D_a",NA,2008
+"1006","HM172088_duck_Hunan_11_2007_|China|_H5N1_2007.496","D_a",NA,2007
+"1007","HM172093_chicken_Shandong_1_2009_|China|_H5N1_2009.496","D_a",NA,2009
+"1008","HM172096_chicken_Fujian_1_2007_|China|_H5N1_2007.496","D_a",NA,2007
+"1009","HM172097_duck_Hunan_29_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"1010","HM172098_duck_Hunan_69_2004_|China|_H5N1_2004.497","D_a",NA,2004
+"1011","HM172100_duck_Jiangxi_80_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"1012","HM172101_shrike_Tibet_13_2006_|China|_H5N1_2006.496","W_a",NA,2006
+"1013","HM172107_duck_Anhui_56_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"1014","HM172109_duck_Yunnan_47_2006_|China|_H5N1_2006.496","D_a",NA,2006
+"1015","HM172112_chicken_Hunan_21_2005_|China|_H5N1_2005.496","D_a",NA,2005
+"1016","HM172115_duck_Anhui_1_06_|China|_H5N1_2006.496","D_a",NA,2006
+"1017","JQ041401_duck_Eastern_China_1111_2011_|China|_H5N2_2011.038","D_a",NA,2011
+"1018","JQ041402_goose_Eastern_China_1112_2011_|China|_H5N2_2011.038","D_a",NA,2011
+"1019","JQ973670_goose_Shandong_k1204_2009_|China|_H5N5_2009.956","D_a",NA,2009
+"1020","JQ973678_quail_Jiangsu_k0104_2010_|China|_H5N5_2010.019","D_a",NA,2010
+"1021","JQ973686_goose_Guangdong_k0103_2010_|China|_H5N5_2010.071","D_a",NA,2010
+"1022","JQ973694_duck_Jiangsu_k1203_2010_|China|_H5N8_2010.926","D_a",NA,2010
+"1023","JX094831_turtle_dove_Guangdong_300_2005_|China|_H5N1_2005.833","D_a","GenBank",2005
+"1024","JX507355_duck_Jiangsu_m234_2012_|China|_H5N2_2012.046","D_a",NA,2012
+"1025","JX534565_wild_duck_Shandong_628_2011_|China|_H5N1_2011.282","W_a",NA,2011
+"1026","JX565019_chicken_Tibet_LZ01_2010_|China|_H5N2_2010.953","D_a",NA,2010
+"1027","JX878683_duck_HuBei_03_2010_|China|_H5N5_2010.236","D_a",NA,2010
+"1028","KC261463_duck_Eastern_China_057_2007_|China|_H5N1_2007.619","D_a",NA,2007
+"1029","KC261464_goose_Eastern_China_223_2008_|China|_H5N1_2008.038","D_a",NA,2008
+"1030","KC261465_chicken_Eastern_China_ZG56_2011_|China|_H5N1_2011.953","D_a",NA,2011
+"1031","KC261466_chicken_North_China_k0604_2010_|China|_H5N1_2010.619","D_a",NA,2010
+"1032","KC261467_chicken_Eastern_China_ZG16_2010_|China|_H5N1_2010.953","D_a",NA,2010
+"1033","KC683523_swine_Jiangsu_2_2009_|China|_H5N1_2009.038","D_m",NA,2009
+"1034","KC690156_domestic_green_winged_teal_Hunan_3450_2006_|China|_H5N1_2006.203","D_a",NA,2006
+"1035","KJ476657_mallard_Shanghai_SH_9_2013_|China|_H5N8_2013.866","W_a","GenBank",2013
+"1036","KJ476669_duck_Zhejiang_W24_2013_|China|_H5N8_2013.868","D_a",NA,2013
+"1037","KJ476670_duck_Zhejiang_6D18_2013_|China|_H5N8_2013.951","D_a",NA,2013
+"1038","KJ683888_chicken_Yunnan_1_2014_|China|_H5N1_2014.110","D_a",NA,2014
+"1039","KJ754145_duck_Guangdong_GD01_2014_|China|_H5N6_2014.200","D_a",NA,2014
+"1040","KJ807779_chicken_Zhejiang_6C2_2013_|China|_H5N6_2013.951","D_a",NA,2013
+"1041","KJ807780_duck_Zhejiang_6D2_2013_|China|_H5N6_2013.951","D_a",NA,2013
+"1042","KJ933377_duck_Zhejiang_6DK19_2013_|China|_H5N2_2013.953","D_a",NA,2013
+"1043","KJ938658_environment_Zhenjiang_C13_2013_|China|_H5N6_2013.967","D_e","GenBank",2013
+"1044","KM251462_Anas_crecca_Hubei_Chenhu1623_5_2014_|China|_H5N6_2014.214","W_a",NA,2014
+"1045","KM251463_chicken_Sichuan_NCJPL1_2014_|China|_H5N6_2014.318","D_a",NA,2014
+"1046","KM251464_duck_Sichuan_NCJPL7_2014_|China|_H5N6_2014.318","D_a",NA,2014
+"1047","KM251465_duck_Sichuan_NCXJ15_2014_|China|_H5N6_2014.318","D_a",NA,2014
+"1048","KM251466_duck_Sichuan_NCXJ16_2014_|China|_H5N6_2014.318","D_a",NA,2014
+"1049","KM251467_duck_Sichuan_NCXJ24_2014_|China|_H5N6_2014.318","D_a",NA,2014
+"1050","KM251468_environment_Sichuan_NCLL1_2014_|China|_H5N6_2014.318","D_e","Two novel reassortants of avian influenza A (H5N6) virus in China",2014
+"1051","KM251469_duck_Sichuan_NCXN10_2014_|China|_H5N1_2014.318","D_a",NA,2014
+"1052","KM251470_duck_Sichuan_NCXN11_2014_|China|_H5N1_2014.318","D_a",NA,2014
+"1053","KM251471_pigeon_Sichuan_NCXN29_2014_|China|_H5N1_2014.318","D_a","Two novel reassortants of avian influenza A (H5N6) virus in China",2014
+"1054","KM392376_chicken_AnNing_1_2014_|China|_H5N1_2014.000","D_a",NA,2014
+"1055","KM392379_chicken_DaLi_302_2014_|China|_H5N1_2014.000","D_a",NA,2014
+"1056","KM504101_duck_Shandong_Q1_2013_|China|_H5N8_2013.312","D_a",NA,2013
+"1057","KM873638_cat_Sichuan_SC18_2014_|China|_H5N6_2014.332","D_m","GenBank",2014
+"1058","KM873646_swan_goose_Jilin_JL01_2014_|China|_H5N6_2014.414","W_a",NA,2014
+"1059","KP083451_migratory_waterfowl_Hubei_Chenhu1306_2014_|China|_H5N6_2014.153","W_a",NA,2014
+"1060","KP083459_migratory_waterfowl_Hubei_Chenhu1347_2014_|China|_H5N6_2014.153","W_a",NA,2014
+"1061","KP090439_chicken_Jiangxi_NCDZT1123_2014_|China|_H5N6_2014.490","D_a",NA,2014
+"1062","KP090447_chicken_Jiangxi_NCDZT1126_2014_|China|_H5N6_2014.490","D_a",NA,2014
+"1063","KP233704_duck_Hunan_316_2005_|China|_H5N1_2005.301","D_a",NA,2005
+"1064","KP284957_chicken_Shenzhen_433_2013_|China|_H5N6_2013.940","D_a",NA,2013
+"1065","KP284965_chicken_Shenzhen_552_2013_|China|_H5N6_2013.940","D_a",NA,2013
+"1066","KP284973_chicken_Shenzhen_1395_2013_|China|_H5N6_2013.942","D_a",NA,2013
+"1067","KP284981_chicken_Shenzhen_1845_2013_|China|_H5N6_2013.945","D_a",NA,2013
+"1068","KP284989_chicken_Shenzhen_2396_2013_|China|_H5N6_2013.948","D_a",NA,2013
+"1069","KP284997_chicken_Shenzhen_2464_2013_|China|_H5N6_2013.948","D_a",NA,2013
+"1070","KP285005_duck_Dongguan_2685_2013_|China|_H5N6_2013.962","D_a",NA,2013
+"1071","KP285013_silkie_chicken_Dongguan_2809_2013_|China|_H5N6_2013.962","D_a","GenBank",2013
+"1072","KP285021_duck_Dongguan_3069_2013_|China|_H5N6_2013.962","D_a",NA,2013
+"1073","KP285029_chicken_Dongguan_4259_2013_|China|_H5N6_2013.964","D_a",NA,2013
+"1074","KP285037_duck_Jiangxi_10160_2014_|China|_H5N6_2014.129","D_a",NA,2014
+"1075","KP285045_environment_Jiangxi_10164_2014_|China|_H5N6_2014.129","D_e","Emergence and evolution of H10 subtype influenza viruses in poultry in China",2014
+"1076","KP285053_environment_Jiangxi_10171_2014_|China|_H5N6_2014.129","D_e","Emergence and evolution of H10 subtype influenza viruses in poultry in China",2014
+"1077","KP285317_goose_Shantou_1763_2014_|China|_H5N6_2014.195","D_a",NA,2014
+"1078","KP285325_goose_Shantou_1791_2014_|China|_H5N6_2014.195","D_a",NA,2014
+"1079","KP285333_goose_Shantou_1806_2014_|China|_H5N6_2014.195","D_a",NA,2014
+"1080","KP286077_chicken_Shenzhen_715_2013_|China|_H5N6_2013.940","D_a",NA,2013
+"1081","KP286085_chicken_Shenzhen_1061_2013_|China|_H5N6_2013.942","D_a",NA,2013
+"1082","KP286093_chicken_Shenzhen_2269_2013_|China|_H5N6_2013.948","D_a",NA,2013
+"1083","KP286101_chicken_Dongguan_2690_2013_|China|_H5N6_2013.962","D_a",NA,2013
+"1084","KP286109_chicken_Dongguan_3363_2013_|China|_H5N6_2013.962","D_a",NA,2013
+"1085","KP286421_duck_Jiangxi_13469_2014_|China|_H5N6_2014.241","D_a",NA,2014
+"1086","KP286429_duck_Jiangxi_13475_2014_|China|_H5N6_2014.241","D_a",NA,2014
+"1087","KP286437_duck_Jiangxi_13484_2014_|China|_H5N6_2014.241","D_a",NA,2014
+"1088","KP286453_black_chicken_Jiangxi_10129_2014_|China|_H5N6_2014.129","D_a","GenBank",2014
+"1089","KP286461_environment_Jiangxi_10170_2014_|China|_H5N6_2014.129","D_e","Emergence and evolution of H10 subtype influenza viruses in poultry in China",2014
+"1090","KP638516_wildbird_Anhui_82_2005_|China|_H5N1_2005.496","W_a",NA,2005
+"1091","KP732547_chicken_TongHai_302_2014_|China|_H5N1_2014.025","D_a",NA,2014
+"1092","KP732627_duck_Eastern_China_L0321_2010_|China|_H5N2_2010.216","D_a",NA,2010
+"1093","KP732628_duck_Eastern_China_L0230_2010_|China|_H5N2_2010.159","D_a",NA,2010
+"1094","KP732629_duck_Eastern_China_L0405_2010_|China|_H5N8_2010.258","D_a",NA,2010
+"1095","KP732630_duck_Eastern_China_L0423_2011_|China|_H5N8_2011.307","D_a",NA,2011
+"1096","KP732631_duck_Eastern_China_L0611_2011_|China|_H5N8_2011.441","D_a",NA,2011
+"1097","KP732632_duck_Eastern_China_L0722_2012_|China|_H5N8_2012.555","D_a",NA,2012
+"1098","KP732633_duck_Eastern_China_L1021_2012_|China|_H5N8_2012.803","D_a",NA,2012
+"1099","KP732634_duck_Eastern_China_L1120_2012_|China|_H5N8_2012.885","D_a",NA,2012
+"1100","KP732635_goose_Eastern_China_L1214_2012_|China|_H5N8_2012.951","D_a",NA,2012
+"1101","KP732636_goose_Eastern_China_L1204_2012_|China|_H5N8_2012.923","D_a",NA,2012
+"1102","KP732637_duck_Eastern_China_S1210_2013_|China|_H5N8_2013.940","D_a",NA,2013
+"1103","KP732638_goose_Eastern_China_S0513_2013_|China|_H5N6_2013.362","D_a",NA,2013
+"1104","KP732639_duck_Eastern_China_S0131_2014_|China|_H5N2_2014.082","D_a",NA,2014
+"1105","KP732640_duck_Eastern_China_S0215_2014_|China|_H5N8_2014.123","D_a",NA,2014
+"1106","KP732641_duck_Eastern_China_S0711_2014_|China|_H5N6_2014.523","D_a",NA,2014
+"1107","KP732642_duck_Eastern_China_S0808_2014_|China|_H5N2_2014.600","D_a",NA,2014
+"1108","KP732643_duck_Eastern_China_S0908_2014_|China|_H5N6_2014.685","D_a",NA,2014
+"1109","KP732644_duck_Eastern_China_S0322_2014_|China|_H5N6_2014.219","D_a",NA,2014
+"1110","KP732645_goose_Eastern_China_S0408_2014_|China|_H5N8_2014.266","D_a",NA,2014
+"1111","KP732646_duck_Eastern_China_S1109_2014_|China|_H5N8_2014.855","D_a",NA,2014
+"1112","KP765788_Guangzhou_39715_2014_|China|_H5N6_2014.942","D_m",NA,2014
+"1113","KP765796_duck_Guangzhou_41227_2014_|China|_H5N6_2014.978","D_a",NA,2014
+"1114","KR063687_Changsha_1_2014_|China|_H5N6_2014.145","D_m",NA,2014
+"1115","KT221066_goose_Jiangsu_QD5_2014_|China|_H5N8_2014.156","D_a",NA,2014
+"1116","KT221074_goose_Shandong_WFSG1_2014_|China|_H5N8_2014.274","D_a",NA,2014
+"1117","KT221082_goose_Yangzhou_0420_2014_|China|_H5N8_2014.299","D_a",NA,2014
+"1118","KT245137_chicken_Yunnan_19_2015_|China|_H5N6_2015.129","D_a",NA,2015
+"1119","KT245139_chicken_Yunnan_22_2015_|China|_H5N6_2015.156","D_a",NA,2015
+"1120","KT245141_chicken_Yunnan_252015_|China|_H5N6_2015.129","D_a",NA,2015
+"1121","KT245143_Yunnan_0127_2015_|China|_H5N6_2015.099","D_m",NA,2015
+"1122","KT313410_swine_Guangdong_2_2014_|China|_H5N6_2014.460","D_m",NA,2014
+"1123","KT313418_swine_Guangdong_1_2014_|China|_H5N6_2014.460","D_m",NA,2014
+"1124","KT370058_environment_Guangdong_QY208_2014_|China|_H5N6_2014.342","D_e","Continuing Reassortant of H5N6 Subtype Highly Pathogenic Avian Influenza Virus in Guangdong",2014
+"1125","KT370059_environment_Guangdong_QY025_2013_|China|_H5N6_2013.271","D_e","Continuing Reassortant of H5N6 Subtype Highly Pathogenic Avian Influenza Virus in Guangdong",2013
+"1126","KT370060_environment_Guangdong_QY197_2014_|China|_H5N6_2014.342","D_e","Continuing Reassortant of H5N6 Subtype Highly Pathogenic Avian Influenza Virus in Guangdong",2014
+"1127","KT370061_environment_Guangdong_ZS356_2014_|China|_H5N6_2014.540","D_e","Continuing Reassortant of H5N6 Subtype Highly Pathogenic Avian Influenza Virus in Guangdong",2014
+"1128","KT370062_environment_Guangdong_PY955_2014_|China|_H5N6_2014.967","D_e","Continuing Reassortant of H5N6 Subtype Highly Pathogenic Avian Influenza Virus in Guangdong",2014
+"1129","KT370063_environment_Guangdong_HY243_2015_|China|_H5N6_2015.145","D_e","Continuing Reassortant of H5N6 Subtype Highly Pathogenic Avian Influenza Virus in Guangdong",2015
+"1130","KT370064_environment_Guangdong_JY137_2014_|China|_H5N6_2014.164","D_e","Continuing Reassortant of H5N6 Subtype Highly Pathogenic Avian Influenza Virus in Guangdong",2014
+"1131","KT383478_goose_Guangdong_s13124_2013_|China|_H5N8_2013.945","D_a",NA,2013
+"1132","KT383486_duck_Guangdong_s14044_2014_|China|_H5N8_2014.014","D_a",NA,2014
+"1133","KT454939_Copsychus_saularis_Guangdong_SW8_2014_|China|_H5N6_2014.584","W_a","Highly pathogenic H5N6 influenza A viruses recovered from wild birds in Guangdong, southern China, 2014–2015",2014
+"1134","KT454947_Gallinula_chloropus_Guangdong_GZ174_2014_|China|_H5N6_2014.685","W_a","Highly pathogenic H5N6 influenza A viruses recovered from wild birds in Guangdong, southern China, 2014–2015",2014
+"1135","KT454955_Syrrhaptes_paradoxus_Guangdong_ZH283_2015_|China|_H5N6_2015.137","W_a","Highly pathogenic H5N6 influenza A viruses recovered from wild birds in Guangdong, southern China, 2014–2015",2015
+"1136","KT587286_pigeon_Hubei_RP25_2012_|China|_H5N1_2012.970","D_a","Two novel reassortants of avian influenza A (H5N6) virus in China",2012
+"1137","KT762446_feline_Guangdong_1_2015_|China|_H5N6_2015.033","D_m",NA,2015
+"1138","KT762454_feline_Guangdong_2_2015_|China|_H5N6_2015.033","D_m",NA,2015
+"1139","KT936689_Eurasian_curlew_Shanghai_DT1215_1_2014_|China|_H5N8_2014.953","W_a",NA,2014
+"1140","KT936690_Eurasian_curlew_Shanghai_DT1231_1_2014_|China|_H5N8_2014.997","W_a",NA,2014
+"1141","KT936691_Eurasian_curlew_Shanghai_DT1231_2_2014_|China|_H5N8_2014.997","W_a",NA,2014
+"1142","KT936692_Eurasian_curlew_Shanghai_DT1231_3_2014_|China|_H5N8_2014.997","W_a",NA,2014
+"1143","KT936693_Eurasian_curlew_Shanghai_DT1231_4_2014_|China|_H5N8_2014.997","W_a",NA,2014
+"1144","KT936694_Eurasian_curlew_Shanghai_DT1231_5_2014_|China|_H5N8_2014.997","W_a",NA,2014
+"1145","KT936695_Eurasian_curlew_Shanghai_DT1231_6_2014_|China|_H5N8_2014.997","W_a",NA,2014
+"1146","KT936696_common_teal_Shanghai_PD1121_15_2013_|China|_H5N8_2013.888","W_a",NA,2013
+"1147","KT936698_common_teal_Shanghai_PD1121_10_2013_|China|_H5N8_2013.888","W_a",NA,2013
+"1148","KT936699_common_teal_Shanghai_PD1118_1_2013_|China|_H5N8_2013.879","W_a",NA,2013
+"1149","KT936703_common_teal_Shanghai_PD1108_6_2013_|China|_H5N8_2013.852","W_a",NA,2013
+"1150","KT936704_common_teal_Shanghai_PD1108_3_2013_|China|_H5N8_2013.852","W_a",NA,2013
+"1151","KT936705_common_teal_Shanghai_PD1202_9_2013_|China|_H5N8_2013.918","W_a",NA,2013
+"1152","KT936706_spot_billed_duck_Shanghai_PD1202_3_2013_|China|_H5N8_2013.918","W_a","GenBank",2013
+"1153","KT936707_common_teal_Shanghai_PD1121_19_2013_|China|_H5N8_2013.888","W_a",NA,2013
+"1154","KT936708_common_teal_Shanghai_PD1121_18_2013_|China|_H5N8_2013.888","W_a",NA,2013
+"1155","KT936709_falcated_duck_Shanghai_PD1121_27_2013_|China|_H5N8_2013.888","W_a","GenBank",2013
+"1156","KT936710_falcated_duck_Shanghai_PD1121_26_2013_|China|_H5N8_2013.888","W_a","GenBank",2013
+"1157","KT936711_common_teal_Shanghai_PD1108_24_2013_|China|_H5N8_2013.852","W_a",NA,2013
+"1158","KT936712_common_teal_Shanghai_PD1108_20_2013_|China|_H5N8_2013.852","W_a",NA,2013
+"1159","KT936713_common_teal_Shanghai_PD1108_27_2013_|China|_H5N8_2013.852","W_a",NA,2013
+"1160","KT936714_common_teal_Shanghai_PD1108_25_2013_|China|_H5N8_2013.852","W_a",NA,2013
+"1161","KT936716_common_teal_Shanghai_PD1108_13_2013_|China|_H5N8_2013.852","W_a",NA,2013
+"1162","KT952272_wild_pigeon_Jilin_CC01_2014_|China|_H5N6_2014.463","W_a",NA,2014
+"1163","KT952280_environment_Jilin_CC02_2014_|China|_H5N6_2014.463","W_e","Dispersal and Transmission of Avian Paramyxovirus Serotype 4 among Wild Birds and Domestic Poultry",2014
+"1164","KT963046_environment_Yunnan_YN19_2015_|China|_H5N6_2015.126","D_e","Emergence of triple-subtype reassortants of fatal human H5N6 avian influenza virus in Yunnan, China",2015
+"1165","KT963053_environment_Yunnan_YN22_2015_|China|_H5N6_2015.126","D_e","Emergence of triple-subtype reassortants of fatal human H5N6 avian influenza virus in Yunnan, China",2015
+"1166","KT963061_environment_Yunnan_YN25_2015_|China|_H5N6_2015.126","D_e","Emergence of triple-subtype reassortants of fatal human H5N6 avian influenza virus in Yunnan, China",2015
+"1167","KU042748_duck_Zhejiang_77138_2014_|China|_H5N2_2014.512","D_a",NA,2014
+"1168","KU042749_duck_Zhejiang_727041_2014_|China|_H5N2_2014.567","D_a",NA,2014
+"1169","KU042750_goose_Zhejiang_77166_2014_|China|_H5N2_2014.512","D_a",NA,2014
+"1170","KU042751_goose_Zhejiang_77167_2014_|China|_H5N2_2014.512","D_a",NA,2014
+"1171","KU042752_goose_Zhejiang_77168_2014_|China|_H5N2_2014.512","D_a",NA,2014
+"1172","KU042753_chicken_Zhejiang_727079_2014_|China|_H5N2_2014.567","D_a",NA,2014
+"1173","KU042754_chicken_Zhejiang_727159_2014_|China|_H5N2_2014.567","D_a",NA,2014
+"1174","KU042755_duck_Zhejiang_727158_2014_|China|_H5N6_2014.567","D_a",NA,2014
+"1175","KU042756_goose_Zhejiang_727092_2014_|China|_H5N6_2014.567","D_a",NA,2014
+"1176","KU042757_goose_Zhejiang_727110_2014_|China|_H5N6_2014.567","D_a",NA,2014
+"1177","KU042758_goose_Zhejiang_925036_2014_|China|_H5N6_2014.732","D_a",NA,2014
+"1178","KU042759_goose_Zhejiang_925105_2014_|China|_H5N6_2014.732","D_a",NA,2014
+"1179","KU042760_goose_Zhejiang_925106_2014_|China|_H5N6_2014.732","D_a",NA,2014
+"1180","KU042761_goose_Zhejiang_925108_2014_|China|_H5N6_2014.732","D_a",NA,2014
+"1181","KU042762_goose_Zhejiang_112080_2014_|China|_H5N6_2014.885","D_a",NA,2014
+"1182","KU042763_goose_Zhejiang_1120132_2014_|China|_H5N6_2014.885","D_a",NA,2014
+"1183","KU042764_chicken_Zhejiang_727022_2014_|China|_H5N6_2014.567","D_a",NA,2014
+"1184","KU042765_chicken_Zhejiang_727026_2014_|China|_H5N6_2014.567","D_a",NA,2014
+"1185","KU042766_chicken_Zhejiang_727155_2014_|China|_H5N6_2014.567","D_a",NA,2014
+"1186","KU042767_duck_Zhejiang_925019_2014_|China|_H5N8_2014.732","D_a",NA,2014
+"1187","KU042768_duck_Zhejiang_925169_2014_|China|_H5N8_2014.732","D_a",NA,2014
+"1188","KU042769_goose_Zhejiang_925037_2014_|China|_H5N8_2014.732","D_a",NA,2014
+"1189","KU042770_goose_Zhejiang_925104_2014_|China|_H5N8_2014.732","D_a",NA,2014
+"1190","KU057272_tiger_Yunnan_tig1404_2014_|China|_H5N1_2014.266","D_m","GenBank",2014
+"1191","KU143261_turtledove_Wuhan_WHBJ12_2014_|China|_H5N6_2014.953","D_a","Diversity and evolution of avian influenza viruses in live poultry markets, free-range poultry and wild wetland birds in China",2014
+"1192","KU143262_turtledove_Wuhan_WHBJ28_2014_|China|_H5N6_2014.953","D_a","Diversity and evolution of avian influenza viruses in live poultry markets, free-range poultry and wild wetland birds in China",2014
+"1193","KU143263_turtledove_Wuhan_HKBJ27_2015_|China|_H5N6_2015.038","D_a","Diversity and evolution of avian influenza viruses in live poultry markets, free-range poultry and wild wetland birds in China",2015
+"1194","KU143264_turtledove_Wuhan_HKBJ43_2015_|China|_H5N6_2015.038","D_a","Diversity and evolution of avian influenza viruses in live poultry markets, free-range poultry and wild wetland birds in China",2015
+"1195","KU143265_duck_Wuhan_WHYF02_2015_|China|_H5N6_2015.038","D_a",NA,2015
+"1196","KU143266_duck_Wuhan_WHYF03_2015_|China|_H5N6_2015.038","D_a",NA,2015
+"1197","KU143267_chicken_Wuhan_WHYJ01_2015_|China|_H5N6_2015.038","D_a",NA,2015
+"1198","KU143268_chicken_Wuhan_WHYJ02_2015_|China|_H5N6_2015.038","D_a",NA,2015
+"1199","KU143269_duck_Wenzhou_YHQL22_2014_|China|_H5N6_2014.038","D_a",NA,2014
+"1200","KU143270_duck_Wuhan_JXYFB22_2015_|China|_H5N6_2015.038","D_a",NA,2015
+"1201","KU143271_duck_Taizhou_TZYG12_2015_|China|_H5N6_2015.038","D_a",NA,2015
+"1202","KU143272_turtledove_Wuhan_WHBJ26_2014_|China|_H5N6_2014.953","D_a","Diversity and evolution of avian influenza viruses in live poultry markets, free-range poultry and wild wetland birds in China",2014
+"1203","KU143273_turtledove_Wuhan_HKBJ07_2015_|China|_H5N6_2015.038","D_a","Diversity and evolution of avian influenza viruses in live poultry markets, free-range poultry and wild wetland birds in China",2015
+"1204","KU852944_environment_Guangdong_GZ693_2015_|China|_H5N6_2015.879","D_e","Continuing Reassortant of H5N6 Subtype Highly Pathogenic Avian Influenza Virus in Guangdong",2015
+"1205","KU852945_environment_Guangdong_ZS558_2015_|China|_H5N6_2015.808","D_e","Continuing Reassortant of H5N6 Subtype Highly Pathogenic Avian Influenza Virus in Guangdong",2015
+"1206","KU852946_environment_Guangdong_GZ670_2015_|China|_H5N6_2015.337","D_e","Continuing Reassortant of H5N6 Subtype Highly Pathogenic Avian Influenza Virus in Guangdong",2015
+"1207","KX013021_duck_Eastern_China_JY_2014_|China|_H5N8_2014.008","D_a",NA,2014
+"1208","KX013029_goose_Eastern_China_CZ_2013_|China|_H5N8_2013.860","D_a",NA,2013
+"1209","KX094400_duck_Guangzhou_018_2014_|China|_H5N6_2014.038","D_a",NA,2014
+"1210","KX094408_duck_Guangzhou_021_2014_|China|_H5N6_2014.038","D_a",NA,2014
+"1211","KX121198_goose_Hunan_118_2014_|China|_H5N6_2014.863","D_a",NA,2014
+"1212","KX121206_duck_Hunan_144_2014_|China|_H5N6_2014.866","D_a",NA,2014
+"1213","KX151176_Pavo_cristatus_Jiangxi_JA1_2016_|China|_H5N6_2016.156","D_a","Genetic Characterization of Continually Evolving Highly Pathogenic H5N6 Influenza Viruses in China, 2012–2016",2016
+"1214","KX223685_environment_Zhongshan_ZS01_2016_|China|_H5N6_2016.161","D_e","Aerosolized avian influenza A (H5N6) virus isolated from a live poultry market, China",2016
+"1215","KX247930_environment_Changsha_156_2014_|China|_H5N1_2014.252","D_e","GenBank",2014
+"1216","KX523694_duck_Hubei_SZY250_2016_|China|_H5N2_2016.303","D_a",NA,2016
+"1217","KX602687_duck_Zhejiang_1026109_2015_|China|_H5N2_2015.816","D_a",NA,2015
+"1218","KX602688_chicken_Zhejiang_81643_2015_|China|_H5N2_2015.622","D_a",NA,2015
+"1219","KX602689_chicken_Zhejiang_7450_2015_|China|_H5N2_2015.504","D_a",NA,2015
+"1220","KX602690_chicken_Zhejiang_514135_2015_|China|_H5N2_2015.364","D_a",NA,2015
+"1221","KX638407_peregrine_falcon_HK_4955_2015_|Hong_Kong|_H5N6_2015.271","W_a",NA,2015
+"1222","KX638416_oriental_magpie_robin_HK_6154_2015_|Hong_Kong|_H5N6_2015.326","W_a",NA,2015
+"1223","KX652133_chicken_Hubei_XG18_2015_|China|_H5N6_2015.627","D_a",NA,2015
+"1224","KX652134_duck_Hubei_XG18_2015_|China|_H5N6_2015.627","D_a",NA,2015
+"1225","KX652135_duck_Hubei_WH18_2015_|China|_H5N6_2015.751","D_a",NA,2015
+"1226","KX960164_wild_bird_Jiangxi_P560_2015_|China|_H5N6_2015.016","W_a",NA,2015
+"1227","KX960166_wild_bird_Jiangxi_P410_2015_|China|_H5N1_2015.016","W_a",NA,2015
+"1228","KX960168_wild_bird_Jiangxi_P38_2015_|China|_H5N6_2015.016","W_a",NA,2015
+"1229","KX960170_wild_bird_Jiangxi_P31_2015_|China|_H5N6_2015.016","W_a",NA,2015
+"1230","KX960172_wild_bird_Jiangxi_P21_2015_|China|_H5N6_2015.016","W_a",NA,2015
+"1231","KX960174_wild_bird_Jiangxi_P6_2015_|China|_H5N6_2015.016","W_a",NA,2015
+"1232","KX960176_wild_bird_Jiangxi_P5_2015_|China|_H5N6_2015.016","W_a",NA,2015
+"1233","KX960178_wild_bird_Jiangxi_P562_2015_|China|_H5N6_2015.016","W_a",NA,2015
+"1234","KX960180_wild_bird_Jiangxi_P469_2015_|China|_H5N6_2015.016","W_a",NA,2015
+"1235","KX960182_wild_bird_Jiangxi_P237_2015_|China|_H5N6_2015.016","W_a",NA,2015
+"1236","KX960184_wild_bird_Jiangxi_P126_2015_|China|_H5N1_2015.016","W_a",NA,2015
+"1237","KY056285_chicken_Zhejiang_194_2016_|China|_H5N2_2016.082","D_a",NA,2016
+"1238","KY056286_chicken_Zhejiang_209_2016_|China|_H5N2_2016.082","D_a",NA,2016
+"1239","KY056287_chicken_Zhejiang_217_2016_|China|_H5N2_2016.082","D_a",NA,2016
+"1240","KY056288_chicken_Zhejiang_232_2016_|China|_H5N2_2016.082","D_a",NA,2016
+"1241","KY415619_duck_Hubei_ZYSYF1_2015_|China|_H5N6_2015.871","D_a",NA,2015
+"1242","KY415620_duck_Hubei_ZYSYF24_2015_|China|_H5N6_2015.871","D_a",NA,2015
+"1243","KY415621_duck_Hubei_ZYSYG18_2015_|China|_H5N6_2015.888","D_a",NA,2015
+"1244","KY415622_duck_Hubei_ZYSYG5_2015_|China|_H5N6_2015.888","D_a",NA,2015
+"1245","KY415623_chicken_Hubei_ZYSJF11_2016_|China|_H5N6_2016.139","D_a",NA,2016
+"1246","KY415624_chicken_Hubei_ZYSJF16_2016_|China|_H5N6_2016.139","D_a",NA,2016
+"1247","KY415625_chicken_Hubei_ZYSJF22_2016_|China|_H5N6_2016.139","D_a",NA,2016
+"1248","KY415626_chicken_Hubei_ZYSJF38_2016_|China|_H5N6_2016.139","D_a",NA,2016
+"1249","KY415631_chicken_Taishun_TS12_2016_|China|_H5N6_2016.134","D_a",NA,2016
+"1250","KY415632_chicken_Taishun_TS90_2016_|China|_H5N6_2016.134","D_a",NA,2016
+"1251","KY415633_chicken_Taishun_TS2_2016_|China|_H5N6_2016.134","D_a",NA,2016
+"1252","KY415644_chicken_Ganzhou_GZ27_2015_|China|_H5N6_2015.945","D_a",NA,2015
+"1253","KY415645_chicken_Ganzhou_GZ21_2015_|China|_H5N6_2015.945","D_a",NA,2015
+"1254","KY415646_chicken_Ganzhou_GZ50_2015_|China|_H5N6_2015.945","D_a",NA,2015
+"1255","MF182415_goose_Guangdong_QY01_2016_|China|_H5N6_2016.803","D_a",NA,2016
+"1256","MF362108_common_teal_Shanghai_JDS36_2016_|China|_H5N6_2016.839","W_a",NA,2016
+"1257","MF362109_common_teal_Shanghai_JDS66_2016_|China|_H5N6_2016.839","W_a",NA,2016
+"1258","MF362110_common_teal_Shanghai_JDS76_2016_|China|_H5N6_2016.839","W_a",NA,2016
+"1259","MF362111_common_teal_Shanghai_JDS81_2016_|China|_H5N6_2016.839","W_a",NA,2016
+"1260","MF362112_Eurasian_wigeon_Shanghai_JDS101_2016_|China|_H5N6_2016.839","W_a","GenBank",2016
+"1261","MF362113_mandarin_duck_Shanghai_PD4_2016_|China|_H5N6_2016.877","D_a","GenBank",2016
+"1262","MF362114_shoveller_duck_Shanghai_JDS90_2016_|China|_H5N6_2016.839","D_a","GenBank",2016
+"1263","MF407528_cat_Zhejiang_C1_2016_|China|_H5N6_2016.030","D_m",NA,2016
+"1264","MF407529_cat_Zhejiang_C2_2016_|China|_H5N6_2016.030","D_m",NA,2016
+"1265","MF564218_wildfowl_Shandong_SD01_2015_|China|_H5N6_2015.038","W_a",NA,2015
+"1266","MF620120_wildfowl_Shandong_SD04_2016_|China|_H5N8_2016.038","W_a",NA,2016
+"1267","MF620123_wildfowl_Shandong_SD02_2015_|China|_H5N2_2015.038","W_a",NA,2015
+"1268","MF960000_goose_Yangzhou_YZ587_2016_|China|_H5N6_2016.383","D_a",NA,2016
+"1269","MF960001_chicken_Xuzhou_XZ6_2016_|China|_H5N6_2016.117","D_a",NA,2016
+"1270","MF960002_duck_Anhui_S4_2016_|China|_H5N6_2016.022","D_a",NA,2016
+"1271","MF960003_chicken_Guangdong_GD1602_2016_|China|_H5N6_2016.221","D_a",NA,2016
