@@ -1,0 +1,7 @@
+statistic	lower	mean	upper
+mig_all	0.171984	0.23837	0.320291
+mig_D_W	0.0797798	0.248544	0.447879
+mig_W_D	0.111173	0.244756	0.454891
+persistence_all	0.771125	1.94369	2.84513
+persistence_D	0.665449	1.38003	1.87692
+persistence_W	1.4285	2.45882	3.34275

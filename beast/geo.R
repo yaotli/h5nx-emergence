@@ -29,7 +29,7 @@ faslist_232[[8]] <- geoID( faslist_232[[2]] )
 faslist_7[[8]]   <- geoID( faslist_7[[2]] )
 
 
-# remove 1 from 232 (the only north ammericas isolate)
+# remove 1 from 232 (the only north americas isolate)
 
 
 # subsampling with geo. as distinct property --------
